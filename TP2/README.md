@@ -10,7 +10,7 @@ Resumo:
         - Defeni as classes
             - aluno
             -instrumentos
-            -curos
+            -cursos
         - com as relações entre o instrumento e o aluno, o instrumento e o curso e o aluno e o curso
         - nas datas properties é igual só que nos instrumentos usei só o "#text"
     - Criei uma script pra povoar a ontologia (tive cuidade aonde os nomes tinham espaços e não podiam)

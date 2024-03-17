@@ -120,54 +120,39 @@ for result in all_results:
 
 
     if uri in films_data:
-        if nomeAtor :
-            films_data[uri]["atores"].add(nomeAtor)
-        if nomeRealizador :
-            films_data[uri]["realizadores"].add(nomeRealizador)
-        if nomeEscritor :
-            films_data[uri]["escritores"].add(nomeEscritor)
-        if nomeMusico:
-            films_data[uri]["musicos"].add(nomeMusico)
-        if descricao:
-            films_data[uri]["descricao"].add(descricao)
-        if duracao:
-            films_data[uri]["duracao"].add(duracao)
-        if nomeProdutor:
-            films_data[uri]["produtores"].add(nomeProdutor)
-        if pais:
-            films_data[uri]["pais"].add(pais)
-        if genero:
-            films_data[uri]["genero"].add(genero)
+        if nomeAtor and nomeAtor not in films_data[uri]["atores"]:
+            films_data[uri]["atores"].append(nomeAtor)
+        if nomeRealizador and nomeRealizador not in films_data[uri]["realizadores"]:
+            films_data[uri]["realizadores"].append(nomeRealizador)
+        if nomeEscritor and nomeEscritor not in films_data[uri]["escritores"]:
+            films_data[uri]["escritores"].append(nomeEscritor)
+        if nomeMusico and nomeMusico not in films_data[uri]["musicos"]:
+            films_data[uri]["musicos"].append(nomeMusico)
+        if descricao and descricao not in films_data[uri]["descricao"]:
+            films_data[uri]["descricao"].append(descricao)
+        if duracao and duracao not in films_data[uri]["duracao"]:
+            films_data[uri]["duracao"].append(duracao)
+        if nomeProdutor and nomeProdutor not in films_data[uri]["produtores"]:
+            films_data[uri]["produtores"].append(nomeProdutor)
+        if pais and pais not in films_data[uri]["pais"]:
+            films_data[uri]["pais"].append(pais)
+        if genero and genero not in films_data[uri]["genero"]:
+            films_data[uri]["genero"].append(genero)
     else:
         films_data[uri] = {
             "filme": nome,
-            "atores": {nomeAtor} if nomeAtor else set(),
-            "realizadores": {nomeRealizador} if nomeRealizador else set(),
-            "escritores":  {nomeEscritor} if nomeEscritor else set(),
-            "musicos":  {nomeMusico} if nomeMusico else set(),
-            "descricao": {descricao} if descricao else set(),
-            "duracao": {duracao} if duracao else set(),
-            "produtores": {nomeProdutor} if nomeProdutor else set(),
-            "pais": {pais} if pais else set(),
-            "genero": {genero} if genero else set()
+            "atores": {nomeAtor} if nomeAtor else [],
+            "realizadores": {nomeRealizador} if nomeRealizador else [],
+            "escritores":  {nomeEscritor} if nomeEscritor else [],
+            "musicos":  {nomeMusico} if nomeMusico else [],
+            "descricao": {descricao} if descricao else [],
+            "duracao": {duracao} if duracao else [],
+            "produtores": {nomeProdutor} if nomeProdutor else [],
+            "pais": {pais} if pais else [],
+            "genero": {genero} if genero else []
         }
 
 films_list = list(films_data.values())
 
 with open("cinema2.json", "w") as f:
     json.dump(films_list, f)
-    # Convert the sets to lists before serializing
-    for film_data in films_list:
-        film_data["atores"] = list(film_data["atores"])
-        film_data["realizadores"] = list(film_data["realizadores"])
-        film_data["escritores"] = list(film_data["escritores"])
-        film_data["musicos"] = list(film_data["musicos"])
-        film_data["descricao"] = list(film_data["descricao"])
-        film_data["duracao"] = list(film_data["duracao"])
-        film_data["produtores"] = list(film_data["produtores"])
-        film_data["pais"] = list(film_data["pais"])
-        film_data["genero"] = list(film_data["genero"])
-
-    # Write the serialized data to the file
-    with open("cinema2.json", "w") as f:
-        json.dump(films_list, f)

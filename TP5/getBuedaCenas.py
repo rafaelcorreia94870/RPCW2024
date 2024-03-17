@@ -154,7 +154,7 @@ produtores = [] #  optional{?s dbo:producer ?producer.?producer dbp:name ?produc
 paises = [] #dbp:country -> ingles
 genres = [] #dbp:Genre -> ir bbuscar rdfs:label em ingles
 escritores = [] #dbp:writer -> ir buscar ingles
-for filme in filmes[:5]:
+for filme in filmes:
     print(filme["nome"])
     #query para ir buscar atores
     filme["atores"] = getAtores(filme["uri"])

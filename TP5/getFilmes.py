@@ -35,7 +35,12 @@ params = {
 }
 
 # Send the SPARQL query using requests
-response = requests.get(sparql_endpoint, params=params, headers=headers)
+response = requests.get(sparql_endpoint, params=params, headers=headers,timeout=1000)
+print("Headers sent in the request:")
+print(response.request.headers)
+
+print("\nParameters sent in the request:")
+print(response.request.url)  # This will show the full URL with parameters
 
 filmes = []
 # Check if the request was successful

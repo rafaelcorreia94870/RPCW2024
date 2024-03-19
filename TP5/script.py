@@ -76,10 +76,10 @@ headers = {
     "Accept": "application/sparql-results+json"
 }
 
-results_limit = 10000  # Define o número máximo de resultados por solicitação
+results_limit = 5000  # Define o número máximo de resultados por solicitação
 offset = 0
 all_results = []
-
+print("begin fetching data...")
 while True:
     sparql_query = sparql_query_template.format(results_limit, offset)
 
@@ -96,10 +96,18 @@ while True:
             break  # Se não houver mais resultados, pare o loop
         all_results.extend(results["results"]["bindings"])
         offset += results_limit
-    else:
-        print("Error:", response.status_code)
-        print(response.text)
+    elif response.status_code == 206:
+        results = response.json()
+        print("Done - no more entries")
+        if not results["results"]["bindings"]:
+            break  # Se não houver mais resultados, pare o loop
+        all_results.extend(results["results"]["bindings"])
         break
+    else:
+        print("Error: ", response.status_code)
+       # print(response.text)
+        break
+print("fetched data, now time to parse")
 
 # Processar todos os resultados como antes
 #?nome ?abstract ?duracao ?nomeAtor ?nomeRealizador ?nomeProdutor ?pais ?genre ?nomeEscritor ?nomeMusico
@@ -130,8 +138,6 @@ for result in all_results:
             films_data[uri]["musicos"].append(nomeMusico)
         if descricao and descricao not in films_data[uri]["descricao"]:
             films_data[uri]["descricao"].append(descricao)
-        if duracao and duracao not in films_data[uri]["duracao"]:
-            films_data[uri]["duracao"].append(duracao)
         if nomeProdutor and nomeProdutor not in films_data[uri]["produtores"]:
             films_data[uri]["produtores"].append(nomeProdutor)
         if pais and pais not in films_data[uri]["pais"]:
@@ -141,18 +147,18 @@ for result in all_results:
     else:
         films_data[uri] = {
             "filme": nome,
-            "atores": {nomeAtor} if nomeAtor else [],
-            "realizadores": {nomeRealizador} if nomeRealizador else [],
-            "escritores":  {nomeEscritor} if nomeEscritor else [],
-            "musicos":  {nomeMusico} if nomeMusico else [],
-            "descricao": {descricao} if descricao else [],
-            "duracao": {duracao} if duracao else [],
-            "produtores": {nomeProdutor} if nomeProdutor else [],
-            "pais": {pais} if pais else [],
-            "genero": {genero} if genero else []
+            "atores": [nomeAtor] if nomeAtor else [],
+            "realizadores": [nomeRealizador] if nomeRealizador else [],
+            "escritores":  [nomeEscritor] if nomeEscritor else [],
+            "musicos":  [nomeMusico] if nomeMusico else [],
+            "descricao": [descricao] if descricao else [],
+            "produtores": [nomeProdutor] if nomeProdutor else [],
+            "pais": [pais] if pais else [],
+            "genero": [genero] if genero else []
         }
+        if duracao: films_data[uri]["duracao"] = float(duracao)/60
 
 films_list = list(films_data.values())
 
-with open("cinema2.json", "w") as f:
+with open("filmes2.json", "w") as f:
     json.dump(films_list, f)

@@ -17,6 +17,8 @@ Resumo: Lista de parágrafos;
     No filmes.json tem todos os filmes apenas com o uri, nome, duração e descrição.
     No filme mais info meti tudo, só que não corri para os primeiros 5 por questões de duração do programa.
 
+    Numa segunda iteração deste TPC tentei fazer tudo num só request, e pedi-a multiplas vezes com um offset de maneira a ter a informação toda, mas por alguma razão a script não é consistento no seu output.
+
     
 
-Lista de resultados: getFilmes.py, getBuedaCenas.py, filmes.json, filmesMaisInfo.json.
+Lista de resultados: getFilmes.py, getBuedaCenas.py, filmes.json, filmesMaisInfo.json, filmes2.json.

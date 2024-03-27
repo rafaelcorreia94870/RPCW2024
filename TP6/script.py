@@ -21,6 +21,9 @@ with open("movies.json","r") as f:
 for filme in filmes:
     filme["movie"] = filme["movie"].replace(" ", "_")
     filme["movie"] = filme["movie"].replace("\"", "")
+    filme["movie"] = filme["movie"].replace("[]", "")
+    filme["movie"] = filme["movie"].replace("%", "percent")
+
     g.add((URIRef(f"{cinema}{filme["movie"]}"),RDF.type,OWL.NamedIndividual))
     g.add((URIRef(f"{cinema}{filme["movie"]}"),RDF.type,cinema.Film)) 
     g.add((URIRef(f"{cinema}{filme["movie"]}"),cinema.title,Literal(filme["movie"])))
@@ -49,6 +52,7 @@ for filme in filmes:
     for genre in filme["genre"]:
         genre = genre.replace(" ", "_")
         genre = genre.replace("\"", "")
+        genre = genre.replace("\n", "")
         g.add((URIRef(f"{cinema}{genre}"),RDF.type,OWL.NamedIndividual))
         g.add((URIRef(f"{cinema}{genre}"),RDF.type,cinema.Genre)) 
         g.add((URIRef(f"{cinema}{filme["movie"]}"),cinema.hasGenre,cinema.Genre))
@@ -64,18 +68,21 @@ for filme in filmes:
     for producer in filme["producers"]:
         producer = producer.replace(" ", "_")
         producer = producer.replace("\"", "") 
+        producer = producer.replace("\n", "")
         g.add((URIRef(f"{cinema}{producer}"),RDF.type,OWL.NamedIndividual))
         g.add((URIRef(f"{cinema}{producer}"),RDF.type,cinema.Producer)) 
         g.add((URIRef(f"{cinema}{filme["movie"]}"),cinema.hasProducer,cinema.Producer))
     for writer in filme["writers"]:
         writer = writer.replace(" ", "_")
         writer = writer.replace("\"", "")
+        writer = writer.replace("\n", "")
         g.add((URIRef(f"{cinema}{writer}"),RDF.type,OWL.NamedIndividual))
         g.add((URIRef(f"{cinema}{writer}"),RDF.type,cinema.Writer)) 
         g.add((URIRef(f"{cinema}{filme["movie"]}"),cinema.hasWriter,cinema.Writer))
     for composer in filme["composers"]:
         composer = composer.replace(" ", "_")
         composer = composer.replace("\"", "")
+        composer = composer.replace("\n", "")
         g.add((URIRef(f"{cinema}{composer}"),RDF.type,OWL.NamedIndividual))
         g.add((URIRef(f"{cinema}{composer}"),RDF.type,cinema.Musician)) 
         g.add((URIRef(f"{cinema}{filme["movie"]}"),cinema.hasComposer,cinema.Musician))

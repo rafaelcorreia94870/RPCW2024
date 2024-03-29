@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>App Cinema: Realizadores</title>
+    <link rel="icon" href="{{ url_for('static',filename = 'favicon.png') }}" />
+    <link rel="stylesheet" href="{{ url_for('static',filename = 'styles/w3.css') }}"/>
+  </head>
+  <body>
+    <div class="w3-card-4">
+        <header class="w3-container w3-indigo">
+            <h1>Tabela dos Realizadores</h1>
+        </header>
+        <div class="w3-container">
+            <table class="w3-table-all">
+              <tr>
+                <th>Realizador</th>
+                <th>Número de filmes realizados</th>
+              </tr>
+              {% for entry in data %}
+              <tr>
+                <td><a href="/realizadores/{{entry.director.value.split("/")[-1]}}">{{ entry.director.value.split("/")[-1] }}</a></td>
+                <td>{{ entry.nfilmes.value }}</td>
+              </tr>
+              {% endfor %}
+            </table>
+        </div>
+        <footer class="w3-container w3-indigo">
+            <h5> <a href="/">Voltar à página princial</a></h5>
+        </footer>
+    </div>
+  </body>
+</html>

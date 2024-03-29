@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>App Cinema</title>
+    <link rel="icon" href="{{ url_for('static',filename = 'favicon.png') }}" />
+    <link rel="stylesheet" href="{{ url_for('static',filename = 'styles/w3.css') }}"/>
+  </head>
+  <body>
+    <div class="w3-card-4">
+        <header class="w3-container w3-indigo">
+            <h1>App Cinema</h1>
+        </header>
+        <div class="w3-container">
+            <ul class="w3-ul">
+                <li><a href="/filmes">Filmes</a></li>
+                <li><a href="/realizadores">Realizadores</a></li>
+                <li><a href="/atores">Atores</a></li>
+            </ul>
+        </div>
+        <footer class="w3-container w3-indigo">
+            <h5>Gerado em {{data.data}}</h5>
+        </footer>
+    </div>
+  </body>
+</html>

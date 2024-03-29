@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>App Cinema: {{data.title}}</title>
+    <link rel="icon" href="{{ url_for('static',filename = 'favicon.png') }}" />
+    <link rel="stylesheet" href="{{ url_for('static',filename = 'styles/w3.css') }}"/>
+  </head>
+  <body>
+    <div class="w3-card-4">
+        <header class="w3-container w3-indigo">
+            <h1>Página do filme {{data.title}}</h1>
+        </header>
+        <div class=w3-container>
+          <h3><b>Descrição:</b>  {{ data.description }} </h3>
+          <h3><b>Duração:</b>  {{ data.duration }} </h3>
+          <h3><b>Generos:</b>  {{ data.genres }} </h3>
+          <h3><b>Países:</b>  {{ data.country }} </h3>
+          <h3><b>Realizadores:</b>  {{ data.directors }} </h3>
+          <h3><b>Atores: </b>  {{ data.actors }} </h3>
+          <h3><b>Compositores:</b>  {{ data.composers }} </h3>
+          <h3><b>Produtores:</b>  {{ data.producers }} </h3>
+          <h3><b>Argumentistas:</b>  {{ data.screenwriters }} </h3>
+        </div>
+
+        <footer class="w3-container w3-indigo">
+            <h5> <a href="/">Voltar à página princial</a></h5>
+        </footer>
+    </div>
+  </body>
+</html>
+
+

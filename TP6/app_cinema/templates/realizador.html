@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>App Cinema: {{data.id}}</title>
+    <link rel="icon" href="{{ url_for('static',filename = 'favicon.png') }}" />
+    <link rel="stylesheet" href="{{ url_for('static',filename = 'styles/w3.css') }}"/>
+  </head>
+  <body>
+    <div class="w3-card-4">
+        <header class="w3-container w3-indigo">
+            <h1>Realizador {{data.id}}</h1>
+        </header>
+        <div class="w3-container">
+            <h2><b>Filmes que realizou ({{data.dados|length}})</b></h2>
+            <ul class="w3-ul">
+              {% for entry in data.dados %}
+              <li><a href="/filmes/{{entry.filme.value.split("/")[-1]}}">{{entry.title.value}}</a></li>
+              {% endfor %}
+          </ul>
+        </div>
+        <br></br>
+        <footer class="w3-container w3-indigo">
+            <h5><a href="/">Voltar à página princial</a></h5>
+        </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>App Cinema: Filmes</title>
+    <link rel="icon" href="{{ url_for('static',filename = 'favicon.png') }}" />
+    <link rel="stylesheet" href="{{ url_for('static',filename = 'styles/w3.css') }}"/>
+  </head>
+  <body>
+    <div class="w3-card-4">
+        <header class="w3-container w3-indigo">
+            <h1>Tabela dos Filmes</h1>
+        </header>
+        <div class="w3-container">
+            <table class="w3-table-all">
+              <tr>
+                <th>Titulo</th>
+                <th>Duracão</th>
+              </tr>
+              {% for entry in data %}
+              <tr>
+                <td><a href="/filmes/{{entry.s.value.split("/")[-1]}}">{{entry.title.value}}</a></td>
+                <td>{% if entry.duration is defined %} {{ entry.duration.value }} {% else %} - {% endif %}</td>
+              </tr>
+              {% endfor %}
+            </table>
+        </div>
+        <footer class="w3-container w3-indigo">
+            <h5>Gerado por xiquitita - <a href="/">Voltar à página princial</a></h5>
+        </footer>
+    </div>
+  </body>
+</html>

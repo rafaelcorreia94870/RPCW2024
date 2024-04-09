@@ -1,0 +1,8415 @@
+{
+  "alunos": [
+    {
+      "idAluno": "PG57086",
+      "nome": "Muhammad Zunair Teixeira",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.47
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.22
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.2
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.99
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "normal": 14
+      }
+    },
+    {
+      "idAluno": "PG49576",
+      "nome": "Viktor Alvaro Caria",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.39
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.07
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.98
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "normal": 8
+      }
+    },
+    {
+      "idAluno": "A91509",
+      "nome": "Momtahana Caldinhas",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.27
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.9
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.05
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.94
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "recurso": 16,
+        "especial": 19,
+        "normal": 3
+      }
+    },
+    {
+      "idAluno": "PG87264",
+      "nome": "Iara Carolina Rogelio",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.99
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.76
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.59
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.57
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "recurso": 18,
+        "especial": 6
+      }
+    },
+    {
+      "idAluno": "PG67925",
+      "nome": "Judia Cabrito",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.58
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.77
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.64
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.06
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "recurso": 14,
+        "especial": 14,
+        "normal": 16
+      }
+    },
+    {
+      "idAluno": "A60631",
+      "nome": "Khristyan Tostoo",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.55
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.29
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.67
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.25
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "normal": 5,
+        "recurso": 18,
+        "especial": 17
+      }
+    },
+    {
+      "idAluno": "PG98125",
+      "nome": "Rosebel Laranjeira",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.12
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.72
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.37
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.64
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "especial": 9,
+        "recurso": 8
+      }
+    },
+    {
+      "idAluno": "PG69686",
+      "nome": "Graça Brazuna",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.57
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.83
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.05
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.76
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "especial": 15,
+        "normal": 7,
+        "recurso": 11
+      }
+    },
+    {
+      "idAluno": "A54077",
+      "nome": "Lisandro Rafael Silveira",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.43
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.37
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.05
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.1
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "recurso": 20
+      }
+    },
+    {
+      "idAluno": "A64286",
+      "nome": "Jessica Camasoo",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.56
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.65
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.78
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.64
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "recurso": 11,
+        "especial": 15
+      }
+    },
+    {
+      "idAluno": "PG35959",
+      "nome": "Filipa Carolina Monico",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.5
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.86
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.81
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.56
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "recurso": 2
+      }
+    },
+    {
+      "idAluno": "A54719",
+      "nome": "Alex Matias Candida",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.07
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.66
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.75
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.37
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "normal": 7,
+        "recurso": 18
+      }
+    },
+    {
+      "idAluno": "PG83316",
+      "nome": "Franz Freitas",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.91
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.59
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.76
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.09
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "recurso": 0,
+        "especial": 5,
+        "normal": 19
+      }
+    },
+    {
+      "idAluno": "A93032",
+      "nome": "Nyama Gastoo",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.74
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.67
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.46
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.24
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "especial": 6,
+        "normal": 19
+      }
+    },
+    {
+      "idAluno": "PG82868",
+      "nome": "Stella Raposeiro",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.39
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.92
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.57
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.92
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "normal": 10,
+        "recurso": 7,
+        "especial": 17
+      }
+    },
+    {
+      "idAluno": "PG67657",
+      "nome": "Niza Alexandrino",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.34
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.3
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.22
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.21
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "recurso": 9
+      }
+    },
+    {
+      "idAluno": "PG88849",
+      "nome": "Antonino Pardelejo",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.74
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.69
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.11
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.28
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "especial": 18,
+        "recurso": 11
+      }
+    },
+    {
+      "idAluno": "PG74222",
+      "nome": "Mankirt Feiteira",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.89
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.08
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.13
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.16
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "recurso": 19,
+        "normal": 16
+      }
+    },
+    {
+      "idAluno": "PG31204",
+      "nome": "Augusta Vitoriano",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.67
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.69
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.74
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.86
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "especial": 12,
+        "recurso": 3,
+        "normal": 14
+      }
+    },
+    {
+      "idAluno": "A76024",
+      "nome": "Feyme Almeiroo",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.95
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.87
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.87
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.29
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "normal": 8,
+        "recurso": 18
+      }
+    },
+    {
+      "idAluno": "PG80372",
+      "nome": "Clarisse Filipa Minhos",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.35
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.47
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.07
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.9
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "normal": 2
+      }
+    },
+    {
+      "idAluno": "A35157",
+      "nome": "Lucas Solano",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.5
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.99
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.34
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.58
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "normal": 9
+      }
+    },
+    {
+      "idAluno": "A40937",
+      "nome": "Lorena Ariana Duroo",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.39
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.33
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.94
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.03
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "recurso": 12,
+        "especial": 9,
+        "normal": 19
+      }
+    },
+    {
+      "idAluno": "A69150",
+      "nome": "Luzia Sofia Calvinho",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.09
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.32
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.83
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.86
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "especial": 1
+      }
+    },
+    {
+      "idAluno": "PG69939",
+      "nome": "Yara Rafaela Guerrinha",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.55
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.79
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.67
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.24
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "normal": 8,
+        "recurso": 9
+      }
+    },
+    {
+      "idAluno": "PG65658",
+      "nome": "Baltazar Seborro",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.15
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.69
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.11
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.31
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "normal": 3
+      }
+    },
+    {
+      "idAluno": "A80390",
+      "nome": "Victor Hugo Matuto",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.78
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.2
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.46
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.7
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "normal": 2,
+        "recurso": 11
+      }
+    },
+    {
+      "idAluno": "A63030",
+      "nome": "Leonora Sítima",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.76
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.87
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.08
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "normal": 16,
+        "especial": 1,
+        "recurso": 15
+      }
+    },
+    {
+      "idAluno": "PG37929",
+      "nome": "Samira Fateixa",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.96
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.1
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.51
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.54
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "especial": 13,
+        "normal": 3,
+        "recurso": 6
+      }
+    },
+    {
+      "idAluno": "A81212",
+      "nome": "Dádiva Mascarenha",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.69
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.14
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.88
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.65
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "especial": 5,
+        "normal": 9,
+        "recurso": 15
+      }
+    },
+    {
+      "idAluno": "A78991",
+      "nome": "Rosedeep Bertoo",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.97
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.91
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.25
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "normal": 10
+      }
+    },
+    {
+      "idAluno": "PG73942",
+      "nome": "Odalmis Rezio",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.12
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.46
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.62
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.47
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "especial": 15
+      }
+    },
+    {
+      "idAluno": "PG93737",
+      "nome": "Yasmin Safira Nércio",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.21
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.21
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.27
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.42
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "especial": 5
+      }
+    },
+    {
+      "idAluno": "A90360",
+      "nome": "Ustym Timpeira",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.51
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.75
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.11
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.16
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "normal": 8,
+        "recurso": 3
+      }
+    },
+    {
+      "idAluno": "PG86723",
+      "nome": "Susana Isabel Anunciaçoo",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.2
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.98
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.44
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.73
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "especial": 16,
+        "recurso": 16
+      }
+    },
+    {
+      "idAluno": "PG83453",
+      "nome": "Débora Letícia Silvano",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.39
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.36
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.65
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.44
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "recurso": 11,
+        "normal": 15,
+        "especial": 0
+      }
+    },
+    {
+      "idAluno": "A92872",
+      "nome": "Miguel Marta Barateiro",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.72
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.2
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.73
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.62
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "especial": 5,
+        "normal": 10
+      }
+    },
+    {
+      "idAluno": "PG61732",
+      "nome": "Lara Emily David",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.96
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.79
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.23
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.82
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "recurso": 19,
+        "especial": 17
+      }
+    },
+    {
+      "idAluno": "PG97068",
+      "nome": "Bárbara Luísa Zananar",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.71
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.18
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.5
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.31
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "recurso": 5
+      }
+    },
+    {
+      "idAluno": "PG72785",
+      "nome": "Viviana Filipa Rangel",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.06
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.59
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.53
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.66
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "recurso": 19,
+        "normal": 2,
+        "especial": 18
+      }
+    },
+    {
+      "idAluno": "A34980",
+      "nome": "João Xavier Arcozelo",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.08
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.19
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.97
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.88
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "recurso": 3
+      }
+    },
+    {
+      "idAluno": "PG55033",
+      "nome": "Mafalda Elias Botelho",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.36
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.75
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.33
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.77
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "normal": 3,
+        "especial": 6
+      }
+    },
+    {
+      "idAluno": "PG56524",
+      "nome": "Luciana Sophia Saramago",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.48
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.19
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.16
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.57
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "recurso": 4,
+        "normal": 6
+      }
+    },
+    {
+      "idAluno": "A34852",
+      "nome": "Bianca Mélanie Vareiro",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.4
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.22
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.27
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.55
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "recurso": 18,
+        "especial": 18,
+        "normal": 16
+      }
+    },
+    {
+      "idAluno": "PG34866",
+      "nome": "Pérola Sofia Claro",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.2
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.37
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.98
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.05
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "especial": 5,
+        "normal": 8
+      }
+    },
+    {
+      "idAluno": "A55179",
+      "nome": "Aniyah Cardia",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.18
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.48
+        },
+        {
+          "tp": "tpc5",
+          "nota": 1
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.4
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "especial": 15,
+        "normal": 6,
+        "recurso": 5
+      }
+    },
+    {
+      "idAluno": "PG86308",
+      "nome": "Felícia Marroo",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.23
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.98
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.05
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.69
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "recurso": 3
+      }
+    },
+    {
+      "idAluno": "PG53722",
+      "nome": "Márcia Nayara Silveirinha",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.49
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.26
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.09
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.87
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "especial": 1,
+        "recurso": 7
+      }
+    },
+    {
+      "idAluno": "A43096",
+      "nome": "Heidi Grave",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.19
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.89
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.85
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.71
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "especial": 14,
+        "recurso": 10
+      }
+    },
+    {
+      "idAluno": "PG57002",
+      "nome": "Denisa Maria Arnaud",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.83
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.94
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.32
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "especial": 19,
+        "recurso": 15
+      }
+    },
+    {
+      "idAluno": "A96738",
+      "nome": "Gustavo Gil Goris",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.54
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.14
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.72
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.31
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "recurso": 10,
+        "especial": 18
+      }
+    },
+    {
+      "idAluno": "PG96109",
+      "nome": "Luciana Sofia Surrécio",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.14
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.29
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.95
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.85
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "normal": 3,
+        "especial": 8,
+        "recurso": 18
+      }
+    },
+    {
+      "idAluno": "A37003",
+      "nome": "Íris Vitória Gatões",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.19
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.97
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.47
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.19
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "especial": 11
+      }
+    },
+    {
+      "idAluno": "PG47775",
+      "nome": "Endi Djamahl Regueira",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.68
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.94
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.75
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.68
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "especial": 15,
+        "normal": 1,
+        "recurso": 1
+      }
+    },
+    {
+      "idAluno": "A55890",
+      "nome": "Ami Caroline Girio",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.15
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.56
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.45
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.35
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "especial": 2,
+        "recurso": 13,
+        "normal": 9
+      }
+    },
+    {
+      "idAluno": "PG55814",
+      "nome": "Yasmmyn Limede",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.69
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.13
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.98
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.92
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "normal": 5
+      }
+    },
+    {
+      "idAluno": "PG30889",
+      "nome": "Regina Olívia Camasão",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.27
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.87
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.81
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.99
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "especial": 10,
+        "normal": 8
+      }
+    },
+    {
+      "idAluno": "A49868",
+      "nome": "Rafael Sérgio Saberio",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.79
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.17
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.09
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.24
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "especial": 19,
+        "recurso": 13
+      }
+    },
+    {
+      "idAluno": "PG97584",
+      "nome": "Rafael Augusto Caminho",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.16
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.58
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.99
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.95
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "normal": 4
+      }
+    },
+    {
+      "idAluno": "A46350",
+      "nome": "Laura Luz Cerejeira",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.58
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.16
+        },
+        {
+          "tp": "tpc2",
+          "nota": 1
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.04
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "normal": 15,
+        "especial": 12
+      }
+    },
+    {
+      "idAluno": "A55432",
+      "nome": "Maize Miquelina",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.43
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.67
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.56
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.08
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "especial": 18
+      }
+    },
+    {
+      "idAluno": "PG64822",
+      "nome": "Trefa Sendim",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.44
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.81
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.92
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.7
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "especial": 20,
+        "recurso": 14,
+        "normal": 3
+      }
+    },
+    {
+      "idAluno": "PG41190",
+      "nome": "Alikhan Morins",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.2
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.18
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.3
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.83
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "normal": 3,
+        "especial": 11
+      }
+    },
+    {
+      "idAluno": "A54148",
+      "nome": "Querem Louçeira",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.51
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.79
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.33
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.1
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "normal": 17,
+        "recurso": 6
+      }
+    },
+    {
+      "idAluno": "A33125",
+      "nome": "Raylander Medinas",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.96
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.61
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.59
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.64
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "normal": 7,
+        "recurso": 19
+      }
+    },
+    {
+      "idAluno": "PG46176",
+      "nome": "David Misael Celeste",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.03
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.89
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.1
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.23
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "normal": 15
+      }
+    },
+    {
+      "idAluno": "PG90136",
+      "nome": "Welder Livramente",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.29
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.18
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.72
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.51
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "recurso": 16,
+        "especial": 16
+      }
+    },
+    {
+      "idAluno": "PG43391",
+      "nome": "João Lucas Grencho",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.21
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.65
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.5
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.62
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "recurso": 8,
+        "especial": 2
+      }
+    },
+    {
+      "idAluno": "PG63060",
+      "nome": "Adriana Roupico",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.67
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.21
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.88
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.3
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "especial": 14,
+        "recurso": 5,
+        "normal": 11
+      }
+    },
+    {
+      "idAluno": "A77497",
+      "nome": "Taís Isabela Jaqueta",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.93
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.86
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.19
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.6
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "recurso": 15,
+        "especial": 20,
+        "normal": 20
+      }
+    },
+    {
+      "idAluno": "PG92272",
+      "nome": "Herédia Moteiro",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.06
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.72
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.6
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.18
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "especial": 8
+      }
+    },
+    {
+      "idAluno": "A69519",
+      "nome": "Patrícia Goreti Encarnacão",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.09
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.1
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.89
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.3
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "especial": 18
+      }
+    },
+    {
+      "idAluno": "PG40034",
+      "nome": "Holly Bettencourt",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.53
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.56
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.07
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.41
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "especial": 7
+      }
+    },
+    {
+      "idAluno": "A55081",
+      "nome": "Nárcia Nada",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.94
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.7
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.86
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.23
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "especial": 16,
+        "normal": 1
+      }
+    },
+    {
+      "idAluno": "PG45840",
+      "nome": "Júllia Victória Cevada",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.71
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.77
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.31
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.98
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "especial": 2,
+        "normal": 16,
+        "recurso": 4
+      }
+    },
+    {
+      "idAluno": "PG83609",
+      "nome": "Iara Raquel Chuva",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.13
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.4
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.54
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.56
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "normal": 9,
+        "recurso": 5
+      }
+    },
+    {
+      "idAluno": "A56742",
+      "nome": "Santa Maria Amador",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.89
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.11
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.17
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.61
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "especial": 13
+      }
+    },
+    {
+      "idAluno": "PG44777",
+      "nome": "Jalma Valado",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.18
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.49
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.75
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.84
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "especial": 4,
+        "normal": 14,
+        "recurso": 20
+      }
+    },
+    {
+      "idAluno": "A45917",
+      "nome": "Khyara Gasil",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.53
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.83
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.66
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.88
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "normal": 5,
+        "especial": 0,
+        "recurso": 8
+      }
+    },
+    {
+      "idAluno": "A91488",
+      "nome": "Izak Coxixo",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.57
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.12
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.37
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.05
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "normal": 2
+      }
+    },
+    {
+      "idAluno": "A53375",
+      "nome": "Elpídio Adevinha",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.81
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.41
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.83
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "normal": 6,
+        "especial": 17,
+        "recurso": 4
+      }
+    },
+    {
+      "idAluno": "A61697",
+      "nome": "Uami Avelos",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.86
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.01
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.44
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "especial": 16,
+        "normal": 18,
+        "recurso": 11
+      }
+    },
+    {
+      "idAluno": "PG65114",
+      "nome": "Pedro Agostinho Penetra",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.09
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.6
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.65
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.37
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "normal": 5
+      }
+    },
+    {
+      "idAluno": "A93991",
+      "nome": "Clara Luna Gregoria",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.94
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.18
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.58
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "recurso": 2,
+        "normal": 2
+      }
+    },
+    {
+      "idAluno": "A36726",
+      "nome": "Rhuan Guilherme Gueidoo",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.7
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.67
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.62
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.32
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "normal": 10,
+        "recurso": 9,
+        "especial": 11
+      }
+    },
+    {
+      "idAluno": "PG62586",
+      "nome": "Vriya Militoo",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.36
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.7
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.81
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.01
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "especial": 20
+      }
+    },
+    {
+      "idAluno": "PG64537",
+      "nome": "Vinson Cesar",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.87
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.51
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.42
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.78
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "recurso": 11,
+        "normal": 0
+      }
+    },
+    {
+      "idAluno": "PG62803",
+      "nome": "Gera Sena",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.59
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.55
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.15
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "normal": 1,
+        "recurso": 0,
+        "especial": 1
+      }
+    },
+    {
+      "idAluno": "A91036",
+      "nome": "Dhenys Bastinho",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.12
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.1
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.66
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.19
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "normal": 7,
+        "recurso": 1,
+        "especial": 15
+      }
+    },
+    {
+      "idAluno": "PG35824",
+      "nome": "Íris Cristina Pessante",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.98
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.8
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.16
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.75
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "especial": 1
+      }
+    },
+    {
+      "idAluno": "PG35235",
+      "nome": "Mitezi Queiro",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.74
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.93
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.16
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.89
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "recurso": 8
+      }
+    },
+    {
+      "idAluno": "PG42947",
+      "nome": "Adonai Samaritano Batalheiro",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.6
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.94
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.61
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.82
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "recurso": 12
+      }
+    },
+    {
+      "idAluno": "A67035",
+      "nome": "Fernando Gabriel Fialho",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.81
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.57
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.7
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.84
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "recurso": 4,
+        "especial": 10,
+        "normal": 11
+      }
+    },
+    {
+      "idAluno": "PG55268",
+      "nome": "Elisiane Hildeberto",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.49
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.6
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.35
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.06
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "normal": 10
+      }
+    },
+    {
+      "idAluno": "PG68333",
+      "nome": "Beniamin Capoo",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.39
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.3
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.14
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.8
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "recurso": 5,
+        "especial": 6,
+        "normal": 14
+      }
+    },
+    {
+      "idAluno": "PG51177",
+      "nome": "Manel João Braizinha",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.2
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.9
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.29
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.88
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "recurso": 9,
+        "especial": 17,
+        "normal": 4
+      }
+    },
+    {
+      "idAluno": "A75614",
+      "nome": "Denílson Outeiro",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.8
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.59
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.55
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.82
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "recurso": 5,
+        "especial": 8
+      }
+    },
+    {
+      "idAluno": "PG61523",
+      "nome": "Mikel Manuel Carvalhoso",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.34
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.87
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.26
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.73
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "normal": 16,
+        "recurso": 5
+      }
+    },
+    {
+      "idAluno": "PG70864",
+      "nome": "Maria Alejandra Camisoo",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.75
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.32
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.49
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.14
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "especial": 17,
+        "normal": 5
+      }
+    },
+    {
+      "idAluno": "PG60037",
+      "nome": "Joaquim António Casaleiro",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.24
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.81
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.91
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.03
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "especial": 3,
+        "recurso": 9
+      }
+    },
+    {
+      "idAluno": "A74631",
+      "nome": "Fidélio Largueisa",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.22
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.49
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.94
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.38
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "especial": 6,
+        "recurso": 1
+      }
+    },
+    {
+      "idAluno": "A40218",
+      "nome": "Nuno Flávio Capoo",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.58
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.08
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.5
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.03
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "recurso": 17
+      }
+    },
+    {
+      "idAluno": "A83740",
+      "nome": "Ramnah Ferradosa",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.29
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.14
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.52
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.55
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "recurso": 11
+      }
+    },
+    {
+      "idAluno": "PG97281",
+      "nome": "Amiel Caratão",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.67
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.61
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.35
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.37
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "especial": 1
+      }
+    },
+    {
+      "idAluno": "PG48934",
+      "nome": "Siya Alençooo",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.84
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.64
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.98
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.81
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "especial": 20
+      }
+    },
+    {
+      "idAluno": "A50742",
+      "nome": "Ângelo Araújo",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.93
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.96
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.49
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.74
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "normal": 12,
+        "especial": 9
+      }
+    },
+    {
+      "idAluno": "A84771",
+      "nome": "Eric Nicolas Caninas",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.89
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.4
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.88
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.39
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "especial": 1,
+        "normal": 18
+      }
+    },
+    {
+      "idAluno": "A60961",
+      "nome": "Rachido Cardoso",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.4
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.62
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.09
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.49
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "normal": 5,
+        "recurso": 20
+      }
+    },
+    {
+      "idAluno": "A65291",
+      "nome": "Imren Genebra",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.27
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.55
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.78
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.33
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "recurso": 14,
+        "normal": 6,
+        "especial": 12
+      }
+    },
+    {
+      "idAluno": "A71117",
+      "nome": "Theo Lucas Duarte",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.88
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.8
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.79
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.66
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "recurso": 12,
+        "normal": 16,
+        "especial": 5
+      }
+    },
+    {
+      "idAluno": "PG74975",
+      "nome": "Matilde Andreia Calção",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.21
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.33
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.45
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.16
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "recurso": 18,
+        "especial": 9
+      }
+    },
+    {
+      "idAluno": "A98837",
+      "nome": "Cayron Palona",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.98
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.73
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.14
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.78
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "normal": 4,
+        "especial": 17,
+        "recurso": 11
+      }
+    },
+    {
+      "idAluno": "PG76340",
+      "nome": "Liliane Silveirinha",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.37
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.03
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.63
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.63
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "especial": 1,
+        "recurso": 11
+      }
+    },
+    {
+      "idAluno": "PG93299",
+      "nome": "Rafaela Adriana Carreira",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.77
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.27
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.99
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "especial": 13,
+        "normal": 7,
+        "recurso": 2
+      }
+    },
+    {
+      "idAluno": "PG47060",
+      "nome": "Neerzara Krishma Fradigano",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.08
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.9
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.05
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.83
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "especial": 3,
+        "normal": 6
+      }
+    },
+    {
+      "idAluno": "A89770",
+      "nome": "Joséfa Sargaço",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.07
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.96
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.75
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.53
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "normal": 17,
+        "especial": 10
+      }
+    },
+    {
+      "idAluno": "PG52852",
+      "nome": "Arinda Uchoa",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.44
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.03
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.42
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.08
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "normal": 9,
+        "recurso": 7,
+        "especial": 18
+      }
+    },
+    {
+      "idAluno": "A72698",
+      "nome": "Dadiva Mirela Serambeque",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.63
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.84
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.38
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.8
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "especial": 20,
+        "normal": 10,
+        "recurso": 9
+      }
+    },
+    {
+      "idAluno": "A77497",
+      "nome": "Odysseas Patuleia",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.2
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.51
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.68
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.56
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "especial": 11
+      }
+    },
+    {
+      "idAluno": "A48004",
+      "nome": "Maria de Guadalupe Rola",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.19
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.47
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.35
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.06
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "normal": 8,
+        "recurso": 3,
+        "especial": 9
+      }
+    },
+    {
+      "idAluno": "PG93092",
+      "nome": "Hugo Maria Cintra",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.11
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.1
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.05
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.68
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "especial": 17,
+        "recurso": 4,
+        "normal": 10
+      }
+    },
+    {
+      "idAluno": "A73668",
+      "nome": "Felix Magnus Bencatel",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.84
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.7
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.71
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.83
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "normal": 10,
+        "recurso": 3,
+        "especial": 7
+      }
+    },
+    {
+      "idAluno": "PG81155",
+      "nome": "Anagila Carreiras",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.26
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.23
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.56
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.94
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "normal": 17,
+        "especial": 19,
+        "recurso": 12
+      }
+    },
+    {
+      "idAluno": "A55931",
+      "nome": "Rai Giovani Picoo",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.46
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.6
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.7
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.51
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "normal": 14
+      }
+    },
+    {
+      "idAluno": "A76805",
+      "nome": "Raquel Filipa Quintão",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.41
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.84
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.72
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.62
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "normal": 17,
+        "especial": 11,
+        "recurso": 19
+      }
+    },
+    {
+      "idAluno": "A32084",
+      "nome": "Ester Lara Sobral",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.87
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.49
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.65
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.31
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "recurso": 16,
+        "especial": 11
+      }
+    },
+    {
+      "idAluno": "PG61822",
+      "nome": "Evilazio Araujo",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.89
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.81
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.26
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.67
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "recurso": 2
+      }
+    },
+    {
+      "idAluno": "A95530",
+      "nome": "Afonso Santiago Paglione",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.66
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.44
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.45
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.39
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "recurso": 15,
+        "normal": 9,
+        "especial": 11
+      }
+    },
+    {
+      "idAluno": "A88586",
+      "nome": "Ricardo Isaí Mar",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.49
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.53
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.48
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.76
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "especial": 12,
+        "normal": 13,
+        "recurso": 15
+      }
+    },
+    {
+      "idAluno": "PG88009",
+      "nome": "Círia Damásio",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.61
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.78
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.81
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.67
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "especial": 8,
+        "normal": 14,
+        "recurso": 5
+      }
+    },
+    {
+      "idAluno": "A72813",
+      "nome": "Nailah Sacadura",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.14
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.36
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.21
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.73
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "especial": 17
+      }
+    },
+    {
+      "idAluno": "A69752",
+      "nome": "Marco Gabriel Bilhau",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.87
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.18
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.48
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.5
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "recurso": 20,
+        "normal": 1
+      }
+    },
+    {
+      "idAluno": "A66958",
+      "nome": "Sílvia Beatriz Ameixoeiro",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.51
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.86
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.92
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.21
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "especial": 4
+      }
+    },
+    {
+      "idAluno": "A86982",
+      "nome": "Sol Malta",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.26
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.55
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.95
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "normal": 8,
+        "especial": 14
+      }
+    },
+    {
+      "idAluno": "A69390",
+      "nome": "Natália dos Anjos Maltes",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.61
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.63
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.94
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "recurso": 18
+      }
+    },
+    {
+      "idAluno": "PG80484",
+      "nome": "Kiamy Rafael Anca",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.64
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.11
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.1
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.93
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "especial": 7
+      }
+    },
+    {
+      "idAluno": "A95341",
+      "nome": "Márcio Rafael Ferreiro",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.81
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.57
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.1
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.83
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "normal": 8,
+        "recurso": 8,
+        "especial": 19
+      }
+    },
+    {
+      "idAluno": "A48879",
+      "nome": "Vasco Daniel Maro",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.99
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.22
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.68
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.5
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "recurso": 8,
+        "normal": 12,
+        "especial": 12
+      }
+    },
+    {
+      "idAluno": "PG48898",
+      "nome": "Charbel Versos",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.16
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.57
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.15
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.41
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "recurso": 15
+      }
+    },
+    {
+      "idAluno": "A76889",
+      "nome": "Afonso Henriques Cruto",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.61
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.22
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.36
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.65
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "normal": 20,
+        "recurso": 11,
+        "especial": 6
+      }
+    },
+    {
+      "idAluno": "PG35575",
+      "nome": "Gláucio Madeira",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.34
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.89
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.8
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.71
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "recurso": 10,
+        "especial": 14
+      }
+    },
+    {
+      "idAluno": "PG87684",
+      "nome": "Nídia Joana Cinca",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.86
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.49
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.69
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.9
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "recurso": 18,
+        "especial": 1
+      }
+    },
+    {
+      "idAluno": "A30894",
+      "nome": "Thaiany Cravinho",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.7
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.31
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.67
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "especial": 0,
+        "recurso": 1
+      }
+    },
+    {
+      "idAluno": "A80782",
+      "nome": "Rosa Branca Rebocho",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.7
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.11
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.02
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.69
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "especial": 13,
+        "normal": 17,
+        "recurso": 5
+      }
+    },
+    {
+      "idAluno": "A84014",
+      "nome": "Yasmin Ariele Guerra",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.18
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.64
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.9
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "normal": 13
+      }
+    },
+    {
+      "idAluno": "PG72366",
+      "nome": "Mariana Jorge Caratão",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.41
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.89
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.31
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.07
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "recurso": 10,
+        "especial": 18
+      }
+    },
+    {
+      "idAluno": "PG41901",
+      "nome": "Eliedson Serranho",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.99
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.12
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.4
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.64
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "normal": 8,
+        "recurso": 12,
+        "especial": 7
+      }
+    },
+    {
+      "idAluno": "PG91449",
+      "nome": "Daisi Maria Azeiteiro",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.55
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.41
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.2
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.93
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "especial": 2,
+        "recurso": 14
+      }
+    },
+    {
+      "idAluno": "PG91890",
+      "nome": "Cinara Lucinda Gromba",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.69
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.71
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.26
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.88
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "normal": 5,
+        "recurso": 14,
+        "especial": 11
+      }
+    },
+    {
+      "idAluno": "A80816",
+      "nome": "Graça Leonor Gasalho",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.27
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.43
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.34
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "especial": 6
+      }
+    },
+    {
+      "idAluno": "PG76150",
+      "nome": "Octávio Máuricio",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.27
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.09
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.75
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.41
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "recurso": 4,
+        "normal": 0
+      }
+    },
+    {
+      "idAluno": "A97709",
+      "nome": "Elbercio Franca",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.31
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.31
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.62
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.47
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "recurso": 9,
+        "especial": 12,
+        "normal": 8
+      }
+    },
+    {
+      "idAluno": "A81291",
+      "nome": "Jénifer Cristina Queiroz",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.76
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.56
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.51
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.48
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "recurso": 17,
+        "normal": 3
+      }
+    },
+    {
+      "idAluno": "A38015",
+      "nome": "Carmelita Abreu",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.99
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.9
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.01
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.62
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "normal": 11
+      }
+    },
+    {
+      "idAluno": "A61766",
+      "nome": "Raúl Jesus Vermelhudo",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.09
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.16
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.66
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.56
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "especial": 4,
+        "normal": 15
+      }
+    },
+    {
+      "idAluno": "PG61992",
+      "nome": "Elena Beatris Boiça",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.85
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.99
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.09
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.87
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "normal": 6,
+        "recurso": 0
+      }
+    },
+    {
+      "idAluno": "PG77326",
+      "nome": "Paulo Miguel Solipa",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.01
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.18
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.55
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.8
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "recurso": 19,
+        "normal": 7,
+        "especial": 0
+      }
+    },
+    {
+      "idAluno": "A30762",
+      "nome": "Iuliana Mamouros",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.54
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.08
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.35
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "recurso": 13
+      }
+    },
+    {
+      "idAluno": "A83407",
+      "nome": "Marybel Conchilla",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.62
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.15
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.27
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.81
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "especial": 19,
+        "normal": 13,
+        "recurso": 12
+      }
+    },
+    {
+      "idAluno": "PG29196",
+      "nome": "Leandro Mateus Passarada",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.03
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.45
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.87
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.66
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "especial": 14
+      }
+    },
+    {
+      "idAluno": "A41058",
+      "nome": "Alana Patrícia Gapo",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.96
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.91
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.99
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.15
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "recurso": 16
+      }
+    },
+    {
+      "idAluno": "PG70277",
+      "nome": "Liara Rafaela Gatueiro",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.89
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.74
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.78
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.77
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "recurso": 8,
+        "normal": 2,
+        "especial": 15
+      }
+    },
+    {
+      "idAluno": "A36529",
+      "nome": "Íris Patrícia Bairos",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.26
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.75
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.05
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.68
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "recurso": 1,
+        "especial": 8
+      }
+    },
+    {
+      "idAluno": "PG42606",
+      "nome": "Moa Valdrez",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.18
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.19
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.31
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.71
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "normal": 14
+      }
+    },
+    {
+      "idAluno": "PG30430",
+      "nome": "Rute Maria Meleiro",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.45
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.16
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.81
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.94
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "especial": 6
+      }
+    },
+    {
+      "idAluno": "A74677",
+      "nome": "Flávia Alexandra Imaginario",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.49
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.61
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.12
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.12
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "normal": 3,
+        "recurso": 1,
+        "especial": 6
+      }
+    },
+    {
+      "idAluno": "A60260",
+      "nome": "Cíntia Sofia Tostão",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.72
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.91
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.66
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.44
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "normal": 18
+      }
+    },
+    {
+      "idAluno": "PG66173",
+      "nome": "Melissa Renée Fortio",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.86
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.72
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.33
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.34
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "normal": 2
+      }
+    },
+    {
+      "idAluno": "PG43434",
+      "nome": "Aécio Guardado",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.42
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.23
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.26
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.05
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "normal": 19
+      }
+    },
+    {
+      "idAluno": "PG33249",
+      "nome": "Bruna Cyara Pabricas",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.21
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.08
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.88
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.68
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "normal": 13,
+        "recurso": 12,
+        "especial": 15
+      }
+    },
+    {
+      "idAluno": "PG94525",
+      "nome": "Milan Eric Mustapha Farelo",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.6
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.9
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.55
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.38
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "normal": 2,
+        "recurso": 10,
+        "especial": 1
+      }
+    },
+    {
+      "idAluno": "A50448",
+      "nome": "Analua Morganico",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.52
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.54
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.85
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.97
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "normal": 14,
+        "especial": 2,
+        "recurso": 16
+      }
+    },
+    {
+      "idAluno": "A83159",
+      "nome": "Ivanoela Matanca",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.84
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.84
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.47
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.02
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "especial": 1
+      }
+    },
+    {
+      "idAluno": "PG64204",
+      "nome": "Yu Olmas",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.23
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.04
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.73
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.28
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "especial": 19,
+        "normal": 5
+      }
+    },
+    {
+      "idAluno": "A32555",
+      "nome": "Benevolo Mourita",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.61
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.07
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.33
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.64
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "recurso": 2
+      }
+    },
+    {
+      "idAluno": "PG67506",
+      "nome": "Tissiane Estevam",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.07
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.74
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.37
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.72
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "normal": 14,
+        "recurso": 11,
+        "especial": 18
+      }
+    },
+    {
+      "idAluno": "PG37392",
+      "nome": "Victorino Moinhos",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.92
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.44
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.33
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.86
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "recurso": 10,
+        "especial": 19,
+        "normal": 0
+      }
+    },
+    {
+      "idAluno": "PG89980",
+      "nome": "Dinis Maria Mouta",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.19
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.44
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.49
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.27
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "recurso": 11,
+        "especial": 15
+      }
+    },
+    {
+      "idAluno": "A29920",
+      "nome": "Adela Virgolino",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.69
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.59
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.55
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.02
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "especial": 18,
+        "normal": 19
+      }
+    },
+    {
+      "idAluno": "A34774",
+      "nome": "Krishna Sanjay Gois",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.64
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.65
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.17
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.12
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "normal": 7,
+        "recurso": 15,
+        "especial": 9
+      }
+    },
+    {
+      "idAluno": "PG52787",
+      "nome": "Absalão Ris",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.35
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.82
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.36
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.62
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "recurso": 19
+      }
+    },
+    {
+      "idAluno": "A89626",
+      "nome": "Ilie Palumbo",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.41
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.83
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.52
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.39
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "especial": 7,
+        "normal": 18,
+        "recurso": 1
+      }
+    },
+    {
+      "idAluno": "PG40430",
+      "nome": "Mauro Emanuell Gariso",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.09
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.64
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.3
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.23
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "recurso": 19,
+        "especial": 7
+      }
+    },
+    {
+      "idAluno": "A45724",
+      "nome": "Tercília Fevereiro",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.11
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.03
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.56
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.9
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "normal": 13,
+        "especial": 17
+      }
+    },
+    {
+      "idAluno": "PG40325",
+      "nome": "Nayara Victória Maior",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.99
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.76
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.29
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.88
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "recurso": 6
+      }
+    },
+    {
+      "idAluno": "A53022",
+      "nome": "Carlene Ordonhas",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.37
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.07
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.75
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.09
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "recurso": 1,
+        "especial": 9,
+        "normal": 17
+      }
+    },
+    {
+      "idAluno": "A75102",
+      "nome": "Cleidilson Mercatelli",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.57
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.85
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.61
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.78
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "especial": 1,
+        "recurso": 18
+      }
+    },
+    {
+      "idAluno": "PG55130",
+      "nome": "Melynda Polvora",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.44
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.38
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.85
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.98
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "especial": 10
+      }
+    },
+    {
+      "idAluno": "PG45599",
+      "nome": "Staviani Tavira",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.15
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.62
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.01
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.38
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "normal": 4
+      }
+    },
+    {
+      "idAluno": "PG54093",
+      "nome": "Norival Noéme",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.28
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.99
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.13
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.53
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "especial": 14,
+        "recurso": 2
+      }
+    },
+    {
+      "idAluno": "A93471",
+      "nome": "Alhasan Adrião",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.41
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.2
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.87
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.58
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "normal": 0,
+        "especial": 15
+      }
+    },
+    {
+      "idAluno": "A69592",
+      "nome": "Nice Menem",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.78
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.92
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.4
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.28
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "recurso": 10,
+        "normal": 13,
+        "especial": 2
+      }
+    },
+    {
+      "idAluno": "PG86345",
+      "nome": "Aléxis Ortigueira",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.9
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.74
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.52
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.45
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "recurso": 9,
+        "especial": 18
+      }
+    },
+    {
+      "idAluno": "A57841",
+      "nome": "Colino Corredor",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.22
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.36
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.26
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.11
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "normal": 19,
+        "especial": 19
+      }
+    },
+    {
+      "idAluno": "PG76953",
+      "nome": "Donatella Cangueiro",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.06
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.11
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.4
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.34
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "recurso": 14,
+        "normal": 9,
+        "especial": 19
+      }
+    },
+    {
+      "idAluno": "PG57251",
+      "nome": "Ayyan Zilhoo",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.56
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.27
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.67
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.75
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "especial": 7,
+        "recurso": 11
+      }
+    },
+    {
+      "idAluno": "A30983",
+      "nome": "Rhuan Guilherme Atanásio",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.86
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.98
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.74
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.34
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "recurso": 11,
+        "especial": 4,
+        "normal": 15
+      }
+    },
+    {
+      "idAluno": "A43384",
+      "nome": "Alvim Junceiro",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.58
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.92
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.63
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.35
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "normal": 13,
+        "especial": 15,
+        "recurso": 6
+      }
+    },
+    {
+      "idAluno": "PG63815",
+      "nome": "Ernasil Belchior",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.43
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.7
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.49
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.75
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "normal": 7,
+        "especial": 14,
+        "recurso": 8
+      }
+    },
+    {
+      "idAluno": "A96220",
+      "nome": "Ary Duarte Ferrinha",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.08
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.23
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.57
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.08
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "normal": 11,
+        "especial": 17,
+        "recurso": 8
+      }
+    },
+    {
+      "idAluno": "A84743",
+      "nome": "Filipe Luís Tabuinhas",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.03
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.24
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.37
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.53
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "recurso": 8,
+        "normal": 4
+      }
+    },
+    {
+      "idAluno": "PG43398",
+      "nome": "Falak Ruana",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.08
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.28
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.51
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.9
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "recurso": 10,
+        "especial": 19,
+        "normal": 5
+      }
+    },
+    {
+      "idAluno": "A36884",
+      "nome": "Rita Ariana Pião",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.13
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.64
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.95
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.94
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "normal": 11
+      }
+    },
+    {
+      "idAluno": "PG55213",
+      "nome": "Yoshiya Cuanhas",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.33
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.59
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.78
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.17
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "especial": 11,
+        "normal": 8,
+        "recurso": 9
+      }
+    },
+    {
+      "idAluno": "A45091",
+      "nome": "Zhixuan Campião",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.09
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.81
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.2
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.18
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "especial": 0,
+        "recurso": 2
+      }
+    },
+    {
+      "idAluno": "PG42457",
+      "nome": "Vítor Gandares",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.62
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.7
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.62
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.15
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "recurso": 18
+      }
+    },
+    {
+      "idAluno": "A98111",
+      "nome": "Redam Busato",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.02
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.01
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.63
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.2
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "normal": 4
+      }
+    },
+    {
+      "idAluno": "A66564",
+      "nome": "Ilibertino Luzeiro",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.19
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.46
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.6
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.91
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "recurso": 8,
+        "normal": 1
+      }
+    },
+    {
+      "idAluno": "PG89385",
+      "nome": "Lúcia Alexandra Tigre",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.61
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.02
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.07
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.31
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "recurso": 9,
+        "especial": 7,
+        "normal": 13
+      }
+    },
+    {
+      "idAluno": "A47132",
+      "nome": "Vitória Andrea Palminha",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.78
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.3
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.82
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.3
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "recurso": 2,
+        "normal": 4,
+        "especial": 4
+      }
+    },
+    {
+      "idAluno": "A70001",
+      "nome": "Muhammad Ali Tabanes",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.97
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.35
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.77
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.6
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "recurso": 16,
+        "normal": 2
+      }
+    },
+    {
+      "idAluno": "A59813",
+      "nome": "Édi Olímpio Runa",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.32
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.96
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.45
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "normal": 8,
+        "recurso": 9,
+        "especial": 20
+      }
+    },
+    {
+      "idAluno": "PG42803",
+      "nome": "Harsh Roucinha",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.31
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.68
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.41
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.62
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "especial": 13
+      }
+    },
+    {
+      "idAluno": "A29384",
+      "nome": "Jezabel Neri",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.64
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.36
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.81
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "especial": 6,
+        "recurso": 3
+      }
+    },
+    {
+      "idAluno": "A36810",
+      "nome": "Leodvaldo Perrulas",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.36
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.57
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.58
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.8
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "normal": 15,
+        "recurso": 20
+      }
+    },
+    {
+      "idAluno": "A62197",
+      "nome": "Cristiana Rosa Podoo",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.52
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.15
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.09
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "especial": 9,
+        "normal": 10
+      }
+    },
+    {
+      "idAluno": "A59220",
+      "nome": "Suikar Bouça",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.7
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.65
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.54
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.68
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "normal": 2,
+        "especial": 20,
+        "recurso": 5
+      }
+    },
+    {
+      "idAluno": "A33306",
+      "nome": "Dinis Henrique Fiúza",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.32
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.52
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.65
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.2
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "especial": 5,
+        "normal": 19
+      }
+    },
+    {
+      "idAluno": "A63099",
+      "nome": "Dharvin Dalina",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.81
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.42
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.38
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.68
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "especial": 3
+      }
+    },
+    {
+      "idAluno": "A90431",
+      "nome": "Gerta Tenório",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.06
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.58
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.99
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.56
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "recurso": 5,
+        "especial": 12,
+        "normal": 4
+      }
+    },
+    {
+      "idAluno": "PG66410",
+      "nome": "Bilal André Temido",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.69
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.35
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.45
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.73
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "especial": 0
+      }
+    },
+    {
+      "idAluno": "A71443",
+      "nome": "Yaxi Pereira",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.08
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.6
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.95
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.48
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "normal": 0,
+        "recurso": 0
+      }
+    },
+    {
+      "idAluno": "A88526",
+      "nome": "Isac Rafael Neta",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.53
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.53
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.39
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.8
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "recurso": 16,
+        "normal": 9
+      }
+    },
+    {
+      "idAluno": "A90020",
+      "nome": "Alia Mafalda Daira",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.2
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.91
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.79
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.66
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "especial": 14
+      }
+    },
+    {
+      "idAluno": "A82119",
+      "nome": "David Jethro Picota",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.22
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.43
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.64
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.97
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "especial": 13,
+        "normal": 4
+      }
+    },
+    {
+      "idAluno": "A62830",
+      "nome": "Rigoberto Henriqueto",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.21
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.97
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.11
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.36
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "recurso": 5
+      }
+    },
+    {
+      "idAluno": "PG79782",
+      "nome": "Clara Alanna Lucena",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.43
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.37
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.07
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.82
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "normal": 11
+      }
+    },
+    {
+      "idAluno": "A47890",
+      "nome": "Harliv Rota",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.35
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.1
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.98
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.67
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "recurso": 16,
+        "especial": 6,
+        "normal": 2
+      }
+    },
+    {
+      "idAluno": "A40055",
+      "nome": "Nuno Fernando Bilbao",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.36
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.85
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.4
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.37
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "normal": 19,
+        "especial": 16,
+        "recurso": 8
+      }
+    },
+    {
+      "idAluno": "A65226",
+      "nome": "Amara Cintura",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.48
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.03
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.22
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.98
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "normal": 9,
+        "recurso": 8,
+        "especial": 11
+      }
+    },
+    {
+      "idAluno": "A37411",
+      "nome": "Jimmy Abrantes",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.29
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.07
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.35
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.56
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "recurso": 11,
+        "especial": 3,
+        "normal": 19
+      }
+    },
+    {
+      "idAluno": "A55856",
+      "nome": "Mateus Rafael Engrácia",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 1
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.93
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.74
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.23
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "especial": 1,
+        "recurso": 2
+      }
+    },
+    {
+      "idAluno": "A93125",
+      "nome": "Monica Russinho",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.05
+        },
+        {
+          "tp": "tpc6",
+          "nota": 1
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.52
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.89
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "normal": 7,
+        "recurso": 7
+      }
+    },
+    {
+      "idAluno": "PG32446",
+      "nome": "Luciana Gabriela Quintão",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.58
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.31
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.51
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.65
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "especial": 12,
+        "normal": 9
+      }
+    },
+    {
+      "idAluno": "A91875",
+      "nome": "Benjamin Ray Barneto",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.34
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.57
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.21
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.66
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "recurso": 12,
+        "normal": 19,
+        "especial": 3
+      }
+    },
+    {
+      "idAluno": "PG37133",
+      "nome": "Leonardina Saborano",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.32
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.96
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.7
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.8
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "especial": 3,
+        "normal": 8,
+        "recurso": 19
+      }
+    },
+    {
+      "idAluno": "A69969",
+      "nome": "Ageu Maleira",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.92
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.17
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.77
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.03
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "normal": 18,
+        "especial": 17
+      }
+    },
+    {
+      "idAluno": "PG72955",
+      "nome": "Cadiatou Arribanca",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.95
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.5
+        },
+        {
+          "tp": "tpc5",
+          "nota": 1
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "normal": 6
+      }
+    },
+    {
+      "idAluno": "A48255",
+      "nome": "Carlos Filipe Hugo",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.39
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.88
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.5
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "especial": 8,
+        "normal": 9
+      }
+    },
+    {
+      "idAluno": "A29150",
+      "nome": "Arlo Osian Mangueira",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.95
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.98
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.69
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.33
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "normal": 5,
+        "especial": 4,
+        "recurso": 16
+      }
+    },
+    {
+      "idAluno": "A41382",
+      "nome": "Diana da Luz São Paulo",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.78
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.27
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.98
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.82
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "especial": 5,
+        "normal": 3,
+        "recurso": 0
+      }
+    },
+    {
+      "idAluno": "PG34753",
+      "nome": "Ermida Brisido",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.35
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.13
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.02
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.63
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "especial": 7
+      }
+    },
+    {
+      "idAluno": "A69488",
+      "nome": "Liara Filipa Mateiro",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.45
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.97
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.69
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.95
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "recurso": 16
+      }
+    },
+    {
+      "idAluno": "A87463",
+      "nome": "Josselino Onofre",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.16
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.92
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.1
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.62
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "recurso": 13,
+        "especial": 4,
+        "normal": 7
+      }
+    },
+    {
+      "idAluno": "PG50120",
+      "nome": "Bercina Braçais",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.86
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.53
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.77
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.02
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "recurso": 10
+      }
+    },
+    {
+      "idAluno": "A75395",
+      "nome": "Ilii Espírito Santo",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.74
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.64
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.61
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.71
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "normal": 12
+      }
+    },
+    {
+      "idAluno": "A73235",
+      "nome": "Karnjeet Prado",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.23
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.23
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.59
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.79
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "normal": 14,
+        "recurso": 12
+      }
+    },
+    {
+      "idAluno": "A95288",
+      "nome": "Ivan David Macario",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.56
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.49
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.33
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "especial": 2,
+        "normal": 13,
+        "recurso": 11
+      }
+    },
+    {
+      "idAluno": "PG70034",
+      "nome": "Thiago Mateus Calçarroo",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.26
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.75
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.93
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.38
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "especial": 1,
+        "recurso": 10,
+        "normal": 10
+      }
+    },
+    {
+      "idAluno": "PG98564",
+      "nome": "Kenzo Cereja",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.76
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.92
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.83
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "recurso": 15,
+        "normal": 9
+      }
+    },
+    {
+      "idAluno": "PG87906",
+      "nome": "Maria Luz Higino",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.52
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.72
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.59
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.83
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "recurso": 4
+      }
+    },
+    {
+      "idAluno": "PG72878",
+      "nome": "Berfin Patinho",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.96
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.31
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.96
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.74
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "especial": 10
+      }
+    },
+    {
+      "idAluno": "PG78933",
+      "nome": "Waísa Póvoas",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.24
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.01
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.34
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.86
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "recurso": 5,
+        "normal": 5
+      }
+    },
+    {
+      "idAluno": "A94854",
+      "nome": "Shiqi Manala",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.99
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.52
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.53
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.23
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "recurso": 9,
+        "normal": 13,
+        "especial": 15
+      }
+    },
+    {
+      "idAluno": "A93809",
+      "nome": "Valentina Giovana Sanina",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.33
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.1
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.14
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.98
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "especial": 11
+      }
+    },
+    {
+      "idAluno": "A61435",
+      "nome": "Natanael Júnior Caio",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.9
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.75
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.22
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.97
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "recurso": 3
+      }
+    },
+    {
+      "idAluno": "A97584",
+      "nome": "Viktor Alexadre",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.6
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.58
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.83
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "normal": 10,
+        "especial": 18,
+        "recurso": 13
+      }
+    },
+    {
+      "idAluno": "A57769",
+      "nome": "Hailie Diego",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.33
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.91
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.38
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.5
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "normal": 10
+      }
+    },
+    {
+      "idAluno": "PG66408",
+      "nome": "Tázia Cardona",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.85
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.61
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.09
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.97
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "normal": 10,
+        "recurso": 1
+      }
+    },
+    {
+      "idAluno": "A36306",
+      "nome": "André Tomé Afecto",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.67
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.68
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.07
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.6
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "especial": 12,
+        "recurso": 4
+      }
+    },
+    {
+      "idAluno": "PG71371",
+      "nome": "Ivo Miguel Toito",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.39
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.15
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.26
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.66
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "recurso": 1,
+        "normal": 15
+      }
+    },
+    {
+      "idAluno": "A32103",
+      "nome": "Ivete Zoe Praxedes",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.16
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.95
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.18
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.66
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "normal": 2,
+        "recurso": 4
+      }
+    },
+    {
+      "idAluno": "PG33829",
+      "nome": "Iaromir Coisinha",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.03
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.82
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.91
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.67
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "recurso": 16,
+        "especial": 3,
+        "normal": 1
+      }
+    },
+    {
+      "idAluno": "PG75376",
+      "nome": "Miryam Assoreia",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.21
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.21
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.48
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.62
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "especial": 12,
+        "normal": 0,
+        "recurso": 5
+      }
+    },
+    {
+      "idAluno": "PG45823",
+      "nome": "Henrique Maciel Barrau",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.86
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.63
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.09
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.62
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "recurso": 6
+      }
+    },
+    {
+      "idAluno": "PG44732",
+      "nome": "Ray Galheta",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.45
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.15
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.47
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.6
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "normal": 7
+      }
+    },
+    {
+      "idAluno": "A62756",
+      "nome": "Kendall Poeira",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.7
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.67
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.04
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.03
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "recurso": 7,
+        "especial": 20,
+        "normal": 18
+      }
+    },
+    {
+      "idAluno": "PG95505",
+      "nome": "Javokhir Cardos",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.92
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.82
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.04
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.58
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "normal": 8
+      }
+    },
+    {
+      "idAluno": "PG99551",
+      "nome": "Ester Lúcia Seabra",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.58
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.53
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.05
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.45
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "especial": 14,
+        "recurso": 1
+      }
+    },
+    {
+      "idAluno": "PG94551",
+      "nome": "Krishpa Barrinha",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.86
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.93
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.53
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.46
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "normal": 11,
+        "especial": 8
+      }
+    },
+    {
+      "idAluno": "PG42192",
+      "nome": "Darya Canotinho",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.08
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.26
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.38
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.71
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "especial": 10
+      }
+    },
+    {
+      "idAluno": "PG63575",
+      "nome": "Prajna Carolino",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.46
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.04
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.9
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.01
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "especial": 7,
+        "normal": 8
+      }
+    },
+    {
+      "idAluno": "PG50983",
+      "nome": "Zinga Gapo",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.77
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.35
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.76
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.59
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "especial": 8
+      }
+    },
+    {
+      "idAluno": "A77752",
+      "nome": "Aleesha Sapo",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.79
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.92
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.18
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.23
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "especial": 19
+      }
+    },
+    {
+      "idAluno": "PG56026",
+      "nome": "Ângelo Ricardo Coisinha",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.64
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.49
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.66
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.37
+        }
+      ],
+      "projeto": 17,
+      "exames": {
+        "especial": 5,
+        "recurso": 12,
+        "normal": 8
+      }
+    },
+    {
+      "idAluno": "PG99715",
+      "nome": "Kyara Patrícia Carrão",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.3
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.32
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.67
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.42
+        }
+      ],
+      "projeto": 19,
+      "exames": {
+        "recurso": 4,
+        "especial": 5,
+        "normal": 20
+      }
+    },
+    {
+      "idAluno": "PG93675",
+      "nome": "Íris Mariana Mendonça",
+      "curso": "LEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.21
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.56
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.01
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.53
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "especial": 16
+      }
+    },
+    {
+      "idAluno": "A85771",
+      "nome": "Pedro Afonso Saqueta",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.33
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.9
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.09
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.54
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "recurso": 11,
+        "especial": 3
+      }
+    },
+    {
+      "idAluno": "A42403",
+      "nome": "Anaís Seanna Maro",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc4",
+          "nota": 0.71
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.42
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.16
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.39
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "normal": 15,
+        "especial": 16
+      }
+    },
+    {
+      "idAluno": "PG71713",
+      "nome": "Aline de Fátima Rogélio",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.77
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.44
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.59
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.11
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "recurso": 8,
+        "normal": 1,
+        "especial": 10
+      }
+    },
+    {
+      "idAluno": "PG33853",
+      "nome": "Adrian Tiago Tarrafa",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.87
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.27
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.96
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.11
+        }
+      ],
+      "projeto": 16,
+      "exames": {
+        "recurso": 20
+      }
+    },
+    {
+      "idAluno": "A72171",
+      "nome": "Cleonice Rita Campeae",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.61
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.4
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.6
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.87
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "normal": 5,
+        "especial": 18
+      }
+    },
+    {
+      "idAluno": "PG94624",
+      "nome": "Arlie Rovisco",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.77
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.52
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.47
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.94
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "especial": 17,
+        "recurso": 11,
+        "normal": 7
+      }
+    },
+    {
+      "idAluno": "A97218",
+      "nome": "Heike Troncoo",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.29
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.36
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.16
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.82
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "recurso": 10,
+        "especial": 12
+      }
+    },
+    {
+      "idAluno": "PG57291",
+      "nome": "Madalena José Furriel",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.04
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.04
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.86
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.22
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "normal": 10,
+        "especial": 10
+      }
+    },
+    {
+      "idAluno": "PG79263",
+      "nome": "Vasco Rafael Cardinho",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.73
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.17
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.75
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.11
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "recurso": 0,
+        "especial": 19
+      }
+    },
+    {
+      "idAluno": "PG52335",
+      "nome": "Hervê Irédio",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.44
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.56
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.66
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.74
+        }
+      ],
+      "projeto": 13,
+      "exames": {
+        "normal": 16,
+        "especial": 3
+      }
+    },
+    {
+      "idAluno": "A64374",
+      "nome": "Júlia Isabelle Cristina",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc6",
+          "nota": 0.1
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.21
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.89
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.51
+        }
+      ],
+      "projeto": 14,
+      "exames": {
+        "recurso": 19
+      }
+    },
+    {
+      "idAluno": "A67273",
+      "nome": "Roberta Daiana Rial",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.82
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.1
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.01
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.45
+        }
+      ],
+      "projeto": 15,
+      "exames": {
+        "recurso": 16,
+        "especial": 5
+      }
+    },
+    {
+      "idAluno": "PG30972",
+      "nome": "Melissa Alexandra Belém",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc8",
+          "nota": 0.62
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.27
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.98
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.98
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "normal": 6,
+        "recurso": 7,
+        "especial": 8
+      }
+    },
+    {
+      "idAluno": "PG86135",
+      "nome": "Levinda Galginho",
+      "curso": "MML",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.69
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.79
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.25
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.77
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "normal": 14
+      }
+    },
+    {
+      "idAluno": "A44480",
+      "nome": "Eliot Cocena",
+      "curso": "MIEI",
+      "tpc": [
+        {
+          "tp": "tpc5",
+          "nota": 0.22
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.24
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.61
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.92
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "especial": 1,
+        "normal": 5,
+        "recurso": 12
+      }
+    },
+    {
+      "idAluno": "A52274",
+      "nome": "Kush Banza",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.64
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.05
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.47
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.78
+        }
+      ],
+      "projeto": 10,
+      "exames": {
+        "recurso": 3,
+        "especial": 17
+      }
+    },
+    {
+      "idAluno": "A85212",
+      "nome": "Ian Davi Ataíde",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.92
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.13
+        },
+        {
+          "tp": "tpc2",
+          "nota": 0.66
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.55
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "normal": 7,
+        "especial": 11
+      }
+    },
+    {
+      "idAluno": "PG44193",
+      "nome": "Sheila Cloe Lagos",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc3",
+          "nota": 0.49
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.82
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.07
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.82
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "recurso": 18
+      }
+    },
+    {
+      "idAluno": "A92029",
+      "nome": "Maria da Guia Vicetro",
+      "curso": "MCM",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.47
+        },
+        {
+          "tp": "tpc7",
+          "nota": 0.43
+        },
+        {
+          "tp": "tpc1",
+          "nota": 0.16
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.36
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "especial": 6
+      }
+    },
+    {
+      "idAluno": "PG68050",
+      "nome": "Sidhak Sanchez",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc7",
+          "nota": 0.89
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.42
+        },
+        {
+          "tp": "tpc6",
+          "nota": 0.13
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.85
+        }
+      ],
+      "projeto": 18,
+      "exames": {
+        "normal": 19,
+        "especial": 13,
+        "recurso": 3
+      }
+    },
+    {
+      "idAluno": "PG42222",
+      "nome": "Beto Camaz",
+      "curso": "LCC",
+      "tpc": [
+        {
+          "tp": "tpc2",
+          "nota": 0.11
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.16
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.24
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.95
+        }
+      ],
+      "projeto": 11,
+      "exames": {
+        "especial": 9,
+        "normal": 16
+      }
+    },
+    {
+      "idAluno": "PG33312",
+      "nome": "Camila Catarina Militoo",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.62
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.63
+        },
+        {
+          "tp": "tpc3",
+          "nota": 0.04
+        }
+      ],
+      "projeto": 12,
+      "exames": {
+        "especial": 6,
+        "recurso": 1
+      }
+    },
+    {
+      "idAluno": "PG47085",
+      "nome": "Anna do Carmo Lazo",
+      "curso": "MEI",
+      "tpc": [
+        {
+          "tp": "tpc1",
+          "nota": 0.04
+        },
+        {
+          "tp": "tpc4",
+          "nota": 0.32
+        },
+        {
+          "tp": "tpc5",
+          "nota": 0.62
+        },
+        {
+          "tp": "tpc8",
+          "nota": 0.66
+        }
+      ],
+      "projeto": 20,
+      "exames": {
+        "especial": 16,
+        "recurso": 12,
+        "normal": 0
+      }
+    }
+  ]
+}

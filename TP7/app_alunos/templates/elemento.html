@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Tabela Periódica: {{data.nome}}</title>
+    <link rel="icon" href="{{ url_for('static',filename = 'favicon.png') }}" />
+    <link rel="stylesheet" href="{{ url_for('static',filename = 'styles/w3.css') }}"/>
+  </head>
+  <body>
+    <div class="w3-card-4">
+        <header class="w3-container w3-purple">
+            <h1>Página do elemento {{data.nome.value}}</h1>
+        </header>
+        <div class=w3-container>
+          <h3><b>Símbolo:</b>  {{ data.simb.value }} </h3>
+          <h3><b>Número atómico:</b>  {{ data.na.value }} </h3>
+          <h3><b>Peso atómico:</b>  {{ data.pa.value }} </h3>
+          <h3><b>Bloco:</b>  {{ data.bloco.value.split("#")[-1] }} </h3>
+          <h3><b>ID de registoCAS:</b>  {{ data.rid.value }} </h3>
+          <h3><b>Classificação:</b>  {{ data.class.value.split("#")[-1] }} </h3>
+          <h3><b>Cor:</b>  {{ data.cor.value }} </h3>
+          <h3><b>Grupo:</b>  {{ data.grupo.value.split("#")[-1]  }} </h3>
+          <h3><b>Período:</b>  {{ data.periodo.value.split("#")[-1] }} </h3>
+          <h3><b>Estado normal:</b>  {{ data.estado.value.split("#")[-1]  }} </h3>
+        </div>
+
+        <footer class="w3-container w3-purple">
+            <h5>GERADO POR RPCW2024 em {{data["data"]}}<a href="/">Voltar à página princial</a></h5>
+        </footer>
+    </div>
+  </body>
+</html>

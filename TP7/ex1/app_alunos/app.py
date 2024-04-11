@@ -12,6 +12,75 @@ data_iso_formatada = data_hora_atual.strftime("%Y-%m-%d %H:%M:%S")
 grapdb_endpoint = "http://localhost:7200/repositories/alunos"
 
 """
+FUNÇÃO CUJO OBJETIVO É ORGANIZAR UM ALUNO UM UNICO OBJETO JSON
+"""
+def tratarAluno(dados, id):
+    aluno = {}
+    exames = {}
+    tpcs = {}
+    aluno["nome"] = dados[0]["nome"]["value"]
+    aluno["curso"] = dados[0]["curso"]["value"]
+    aluno["idAluno"] = id
+    aluno["nota_projeto"] = dados[0]["nota_projeto"]["value"]
+    for linha in dados:
+        exame = linha["exame"]["value"].split("_")[-1]
+        tpc = linha["tpc"]["value"].split("_")[-1]
+        if exame not in exames:
+            exames[exame] = linha["notasexames"]["value"]
+        if tpc not in tpcs:
+            tpcs[tpc] = linha["notatpcs"]["value"]
+    aluno["exames"] = exames
+    aluno["tpcs"] = tpcs
+    
+    return aluno
+
+"""
+FUNÇÃO CUJO OBJETIVO É AVALIAR OS ALUNOS
+"""
+def avaliarAlunos(dados):
+    alunos = {}
+    for linha in dados:
+        idAluno = linha["idAluno"]["value"]
+        if idAluno not in alunos:
+            alunos[idAluno] = {}
+        if "nome" not in alunos[idAluno]:
+            alunos[idAluno]["nome"] = linha["nome"]["value"]
+        if "curso" not in alunos[idAluno]:
+            alunos[idAluno]["curso"] = linha["curso"]["value"]
+        if "nota_projeto" not in alunos[idAluno]:
+            alunos[idAluno]["notaProjeto"] = float(linha["nota_projeto"]["value"])
+        if "exames" not in alunos[idAluno]:
+            alunos[idAluno]["exames"] = {}
+        if "tpcs" not in alunos[idAluno]:
+            alunos[idAluno]["tpcs"] = {}
+        exame = linha["exame"]["value"].split("_")[-1]
+        tpc = linha["tpc"]["value"].split("_")[-1]
+        if exame not in alunos[idAluno]["exames"]:
+            alunos[idAluno]["exames"][exame] = float(linha["notasexames"]["value"])
+        if tpc not in alunos[idAluno]["tpcs"]:
+            alunos[idAluno]["tpcs"][tpc] = float(linha["notatpcs"]["value"])
+    for aluno in alunos:
+        notaFinal = 0
+        if alunos[aluno]["notaProjeto"] < 10:
+            notaFinal = "R"
+        else:
+            notaExame = max(alunos[aluno]["exames"].values())
+            if (notaExame) < 10:
+                notaFinal = "R"
+            else:
+                for tpc in alunos[aluno]["tpcs"]:
+                    notaFinal += alunos[aluno]["tpcs"][tpc]
+                notaFinal += 0.4*alunos[aluno]["notaProjeto"]
+                notaFinal += 0.4*notaExame
+                if notaFinal < 10:
+                    notaFinal = "R"
+                else:
+                    notaFinal = round(notaFinal,2)
+        alunos[aluno]["notaFinal"] = notaFinal
+        alunos[aluno].pop("exames")
+        alunos[aluno].pop("tpcs")
+    return alunos
+"""
 GET /api/alunos - Devolve a lista dos alunos, ordenada alfabeticamente por nome, com os
 campos: idAluno, nome e curso;
 """
@@ -24,7 +93,7 @@ def alunos():
         """
         sparql_query = f"""
 PREFIX : <http://www.semanticweb.org/35193/ontologies/2024/3/alunos/>
-SELECT ?nome WHERE {{
+SELECT ?idALuno ?nome WHERE {{
     ?idALuno a :Aluno;
     :nome ?nome;
     :curso "{request.args['curso']}" .
@@ -55,6 +124,7 @@ SELECT ?nota (COUNT(?nota) as ?total_alunos) WHERE {
     ?idALuno a :Aluno;
     :nota_projeto ?nota .
 }GROUP BY ?nota
+ORDER BY ?nota
 """
         elif request.args["groupBy"] == "recurso":
             """
@@ -63,7 +133,7 @@ SELECT ?nota (COUNT(?nota) as ?total_alunos) WHERE {
             """
             sparql_query = """
 PREFIX : <http://www.semanticweb.org/35193/ontologies/2024/3/alunos/>
-SELECT * WHERE {
+SELECT ?idALuno ?nome ?curso ?notasexame WHERE {
     ?idALuno a :Aluno;
     :nome ?nome;
     :curso ?curso;
@@ -104,20 +174,19 @@ SELECT * WHERE {{
     :{id} a :Aluno;
     :nome ?nome;
     :curso ?curso;
-    :temtpc ?tpcs;
+    :temtpc ?tpc;
     :nota_projeto ?nota_projeto;
     :temExame ?exame .
     ?exame :nota ?notasexames.
-	?tpcs :nota ?notatpcs.    
+	?tpc :nota ?notatpcs.    
 }}
 """
     resposta = requests.get(grapdb_endpoint, params={"query":sparql_query}, headers={'Accept' :'application/sparql-results+json'})
     if resposta.status_code == 200:
         dados = resposta.json()['results']['bindings']
-        for dado in dados:
-           for key, value in dado.items():
-               dado[key] = value['value']
-        return dados
+        
+        organizado = tratarAluno(dados,id)
+        return organizado
     else:
         return "ERROR: Não foi possível aceder aos dados do aluno."
 
@@ -170,39 +239,18 @@ SELECT * WHERE {
     ?idAluno a :Aluno;
     :nome ?nome;
     :curso ?curso;
-    :temtpc ?tpcs;
+    :temtpc ?tpc;
     :nota_projeto ?nota_projeto;
     :temExame ?exame .
     ?exame :nota ?notasexames.
-	?tpcs :nota ?notatpcs.    
+	?tpc :nota ?notatpcs.  
 }ORDER BY ?nome
 """
     resposta = requests.get(grapdb_endpoint, params={"query":sparql_query}, headers={'Accept' :'application/sparql-results+json'})
     if resposta.status_code == 200:
         dados = resposta.json()['results']['bindings']
-        for dado in dados:
-           for key, value in dado.items():
-               dado[key] = value['value']
-               if key == "nota_projeto" and float(dado[key]) < 10:
-                    dado["notaFinal"] = "R"
-        #calcular nota final e ter só ?idAluno ?nome ?curso ?notaFinal no json
-        for dado in dados:
-            if "notaFinal" not in dado:
-                notaFinal = 0
-                for key, value in dado.items():
-                    if key == "notasexames":
-                        if float(value) > notaFinal:
-                            notaFinal = float(value)
-                    elif key == "notatpcs":
-                        notaFinal += float(value)
-                    elif key == "nota_projeto":
-                        nota_projeto = float(value)
-                notaFinal = notaFinal + (nota_projeto * 0.4) + (notaFinal * 0.4)
-                if notaFinal < 10:
-                    dado["notaFinal"] = "R"
-                else:
-                    dado["notaFinal"] = notaFinal
-        return dados
+        organizado = avaliarAlunos(dados)
+        return organizado
     else:
         return "ERROR: Não foi possível aceder aos dados dos alunos avaliados."
     

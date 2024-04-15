@@ -1,0 +1,2994 @@
+@prefix : <http://rpcw.di.uminho.pt/2024/familia/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<http://rpcw.di.uminho.pt/2024/familia> a owl:Ontology .
+
+:I100 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Pethusim" ;
+    :temPai :I1 .
+
+:I101 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Caphtorim" ;
+    :temPai :I1 .
+
+:I103 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Philstem" ;
+    :temPai :I102 .
+
+:I105 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Asshur" ;
+    :temPai :I22 .
+
+:I106 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Lud" ;
+    :temPai :I22 .
+
+:I107 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Elam" ;
+    :temPai :I22 .
+
+:I108 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hul" ;
+    :temPai :I104 .
+
+:I109 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mash" ;
+    :temPai :I104 .
+
+:I110 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Uz" ;
+    :temPai :I104 .
+
+:I111 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Gether" ;
+    :temPai :I104 .
+
+:I113 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Almodad" ;
+    :temPai :I112 .
+
+:I114 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sheleph" ;
+    :temPai :I112 .
+
+:I115 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hazarmaveth" ;
+    :temPai :I112 .
+
+:I116 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jerah" ;
+    :temPai :I112 .
+
+:I117 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hadoram" ;
+    :temPai :I112 .
+
+:I118 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Uzal" ;
+    :temPai :I112 .
+
+:I119 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Diklah" ;
+    :temPai :I112 .
+
+:I120 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Obal" ;
+    :temPai :I112 .
+
+:I121 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Abimael" ;
+    :temPai :I112 .
+
+:I122 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sheba" ;
+    :temPai :I112 .
+
+:I123 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ophir" ;
+    :temPai :I112 .
+
+:I124 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Havilah" ;
+    :temPai :I112 .
+
+:I125 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jobab" ;
+    :temPai :I112 .
+
+:I130 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Iscah" ;
+    :temPai :I126 .
+
+:I131 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Tebah" ;
+    :temMae :I8 ;
+    :temPai :I178 .
+
+:I132 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Gaham" ;
+    :temMae :I8 ;
+    :temPai :I178 .
+
+:I133 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Thahash" ;
+    :temMae :I8 ;
+    :temPai :I178 .
+
+:I134 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Maachah" ;
+    :temMae :I8 ;
+    :temPai :I178 .
+
+:I136 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Moab" ;
+    :temMae :I179 ;
+    :temPai :I129 .
+
+:I137 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Benammi" ;
+    :temMae :I180 ;
+    :temPai :I129 .
+
+:I138 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Pildesh" ;
+    :temMae :I127 ;
+    :temPai :I178 .
+
+:I139 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jidlaph" ;
+    :temMae :I127 ;
+    :temPai :I178 .
+
+:I141 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Aram" ;
+    :temPai :I140 .
+
+:I147 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Nahath" ;
+    :temPai :I182 .
+
+:I148 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Adbeel" ;
+    :temPai :I166 .
+
+:I149 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mibsam" ;
+    :temPai :I166 .
+
+:I150 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Nephish" ;
+    :temPai :I166 .
+
+:I151 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mishma" ;
+    :temPai :I166 .
+
+:I152 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Kedemah" ;
+    :temPai :I166 .
+
+:I153 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Dumah" ;
+    :temPai :I166 .
+
+:I154 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Tema" ;
+    :temPai :I166 .
+
+:I155 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jetur" ;
+    :temPai :I166 .
+
+:I156 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Kendar" ;
+    :temPai :I166 .
+
+:I157 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Massa" ;
+    :temPai :I166 .
+
+:I158 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Nebajoth" ;
+    :temPai :I166 .
+
+:I159 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hadar" ;
+    :temPai :I166 .
+
+:I160 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ephah" ;
+    :temPai :I170 .
+
+:I161 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Epher" ;
+    :temPai :I170 .
+
+:I162 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hanoch" ;
+    :temPai :I170 .
+
+:I163 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Abida" ;
+    :temPai :I170 .
+
+:I164 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Eldaah" ;
+    :temPai :I170 .
+
+:I167 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Dedan" ;
+    :temPai :I175 .
+
+:I168 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shuah" ;
+    :temMae :I173 ;
+    :temPai :I13 .
+
+:I169 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sheba" ;
+    :temPai :I175 .
+
+:I171 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ishbak" ;
+    :temMae :I173 ;
+    :temPai :I13 .
+
+:I172 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Judith" .
+
+:I174 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zemran" ;
+    :temMae :I173 ;
+    :temPai :I13 .
+
+:I181 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jubal" ;
+    :temMae :I63 ;
+    :temPai :I61 .
+
+:I184 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Aeush" ;
+    :temMae :I183 ;
+    :temPai :I145 .
+
+:I185 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jaalam" ;
+    :temMae :I183 ;
+    :temPai :I145 .
+
+:I186 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Korah" ;
+    :temMae :I183 ;
+    :temPai :I145 .
+
+:I189 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hemden" ;
+    :temPai :I188 .
+
+:I190 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Eshben" ;
+    :temPai :I188 .
+
+:I191 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ithran" ;
+    :temPai :I188 .
+
+:I192 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Cheran" ;
+    :temPai :I188 .
+
+:I194 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ajah" ;
+    :temPai :I193 .
+
+:I196 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Timna" ;
+    :temPai :I195 .
+
+:I2 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Phut" ;
+    :temMae :I7 ;
+    :temPai :I34 .
+
+:I201 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Uz" ;
+    :temPai :I200 .
+
+:I202 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Aran" ;
+    :temPai :I200 .
+
+:I203 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Bilhan" ;
+    :temPai :I199 .
+
+:I204 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zaavan" ;
+    :temPai :I199 .
+
+:I205 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Akan" ;
+    :temPai :I199 .
+
+:I206 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Alvan" ;
+    :temPai :I198 .
+
+:I207 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Manahath" ;
+    :temPai :I198 .
+
+:I208 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ebal" ;
+    :temPai :I198 .
+
+:I209 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shepho" ;
+    :temPai :I198 .
+
+:I210 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Onam" ;
+    :temPai :I198 .
+
+:I211 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hori" ;
+    :temPai :I197 .
+
+:I212 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hemam" ;
+    :temPai :I197 .
+
+:I213 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zarah" ;
+    :temPai :I182 .
+
+:I214 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shanmah" ;
+    :temPai :I182 .
+
+:I216 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mizzah" ;
+    :temPai :I182 .
+
+:I217 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Follian (Falach)" ;
+    :temPai :I218 .
+
+:I228 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Elasah" ;
+    :temMae :I227 ;
+    :temPai :I229 .
+
+:I234 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hanameel" ;
+    :temPai :I235 .
+
+:I249 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Joiadah" ;
+    :temPai :I250 .
+
+:I257 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Libni" ;
+    :temPai :I280 .
+
+:I258 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shimi" ;
+    :temPai :I280 .
+
+:I259 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mahali" ;
+    :temPai :I256 .
+
+:I260 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mushi" ;
+    :temPai :I256 .
+
+:I262 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mirham" ;
+    :temMae :I255 ;
+    :temPai :I246 .
+
+:I265 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jether" ;
+    :temMae :I232 ;
+    :temPai :I233 .
+
+:I266 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mered" ;
+    :temMae :I232 ;
+    :temPai :I233 .
+
+:I267 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ephar" ;
+    :temMae :I232 ;
+    :temPai :I233 .
+
+:I268 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jalon" ;
+    :temMae :I232 ;
+    :temPai :I233 .
+
+:I269 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mariam" .
+
+:I270 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shammai" ;
+    :temMae :I264 ;
+    :temPai :I233 .
+
+:I275 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Eshteemca" ;
+    :temPai :I271 .
+
+:I276 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Gedor" ;
+    :temPai :I272 .
+
+:I277 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Socho" ;
+    :temPai :I273 .
+
+:I278 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zanoah" ;
+    :temPai :I274 .
+
+:I282 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shallum" ;
+    :temMae :I223 ;
+    :temPai :I222 .
+
+:I283 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mulek" ;
+    :temPai :I221 .
+
+:I285 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Johanan" ;
+    :temPai :I222 .
+
+:I288 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zedekiah" ;
+    :temPai :I286 .
+
+:I289 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Assir" ;
+    :temPai :I287 .
+
+:I290 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Malchiram" ;
+    :temPai :I287 .
+
+:I292 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shenazar" ;
+    :temPai :I287 .
+
+:I293 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jacamiah" ;
+    :temPai :I287 .
+
+:I294 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hoshama" ;
+    :temPai :I287 .
+
+:I295 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Nedabiah" ;
+    :temPai :I287 .
+
+:I297 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shimei" ;
+    :temPai :I291 .
+
+:I298 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Meshullam" ;
+    :temPai :I296 .
+
+:I299 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hananiah" ;
+    :temPai :I296 .
+
+:I300 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Saeloith" ;
+    :temPai :I296 .
+
+:I301 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Rephaiah" .
+
+:I302 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Miriam" ;
+    :temMae :I264 ;
+    :temPai :I233 .
+
+:I303 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Salathiel" ;
+    :temPai :I287 .
+
+:I304 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Gershom" ;
+    :temMae :I215 ;
+    :temPai :I261 .
+
+:I305 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hanoch" ;
+    :temPai :I279 .
+
+:I306 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Phallu" ;
+    :temPai :I279 .
+
+:I307 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hezron" ;
+    :temPai :I279 .
+
+:I308 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Carmi" ;
+    :temPai :I279 .
+
+:I309 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ohad" ;
+    :temPai :I316 .
+
+:I310 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jachin" ;
+    :temPai :I316 .
+
+:I311 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zohar" ;
+    :temPai :I316 .
+
+:I312 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shaul" ;
+    :temPai :I316 .
+
+:I313 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jemeul" ;
+    :temPai :I316 .
+
+:I314 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jamin" ;
+    :temPai :I316 .
+
+:I315 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shimea" ;
+    :temMae :I320 ;
+    :temPai :I364 .
+
+:I323 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sancho III" ;
+    :temMae :I322 ;
+    :temPai :I321 .
+
+:I324 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Munia (Ninia)" .
+
+:I334 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shelah" ;
+    :temMae :I360 ;
+    :temPai :I376 .
+
+:I336 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Onan" ;
+    :temMae :I360 ;
+    :temPai :I376 .
+
+:I343 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Vingener" ;
+    :temPai :I344 .
+
+:I354 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hamul" ;
+    :temPai :I341 .
+
+:I36 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Tait" ;
+    :temPai :I37 .
+
+:I366 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shabod" ;
+    :temMae :I320 ;
+    :temPai :I364 .
+
+:I369 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Dinah" ;
+    :temMae :I9 ;
+    :temPai :I10 .
+
+:I375 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Er" ;
+    :temMae :I360 ;
+    :temPai :I376 .
+
+:I377 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Brutus (Came To Britain)" ;
+    :temPai :I356 .
+
+:I379 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Tola" ;
+    :temPai :I383 .
+
+:I380 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shimron" ;
+    :temPai :I383 .
+
+:I381 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Phuvah" ;
+    :temPai :I383 .
+
+:I382 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Job" ;
+    :temPai :I383 .
+
+:I384 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jahleel" ;
+    :temPai :I387 .
+
+:I385 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sered" ;
+    :temPai :I387 .
+
+:I386 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Elon" ;
+    :temPai :I387 .
+
+:I393 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Milcah" ;
+    :temPai :I396 .
+
+:I394 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hoglah" ;
+    :temPai :I396 .
+
+:I395 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Noah" ;
+    :temPai :I396 .
+
+:I398 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Bashan" ;
+    :temPai :I400 .
+
+:I4 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sabtah" ;
+    :temPai :I3 .
+
+:I401 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shemida" ;
+    :temPai :I408 .
+
+:I402 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hepher" ;
+    :temPai :I408 .
+
+:I403 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shechem" ;
+    :temPai :I408 .
+
+:I404 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Asriel" ;
+    :temPai :I408 .
+
+:I405 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Helek" ;
+    :temPai :I408 .
+
+:I406 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Abiezer" ;
+    :temPai :I408 .
+
+:I407 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ephraim" ;
+    :temMae :I409 ;
+    :temPai :I410 .
+
+:I411 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shillem" ;
+    :temPai :I415 .
+
+:I412 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jezer" ;
+    :temPai :I415 .
+
+:I413 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Guni" ;
+    :temPai :I415 .
+
+:I414 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jahzeel" ;
+    :temPai :I415 .
+
+:I416 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hushim" ;
+    :temPai :I417 .
+
+:I421 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Malchiel" ;
+    :temPai :I509 .
+
+:I422 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Heber" ;
+    :temPai :I509 .
+
+:I443 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jesus" ;
+    :temMae :I547 ;
+    :temPai :I543 .
+
+:I452 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Amalech" ;
+    :temPai :I453 .
+
+:I458 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Bran" ;
+    :temMae :I460 ;
+    :temPai :I459 .
+
+:I462 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mahlah" ;
+    :temPai :I396 .
+
+:I463 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Aodh Glas" .
+
+:I465 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Lud King of" ;
+    :temPai :I453 .
+
+:I48 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Huz" ;
+    :temMae :I127 ;
+    :temPai :I178 .
+
+:I49 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hazo" ;
+    :temMae :I127 ;
+    :temPai :I178 .
+
+:I493 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ezbon" ;
+    :temPai :I500 .
+
+:I495 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shuni" ;
+    :temPai :I500 .
+
+:I496 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Arodi" ;
+    :temPai :I500 .
+
+:I497 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Haggi" ;
+    :temPai :I500 .
+
+:I498 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Eri" ;
+    :temPai :I500 .
+
+:I499 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ziphion" ;
+    :temPai :I500 .
+
+:I50 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Chesed" ;
+    :temMae :I127 ;
+    :temPai :I178 .
+
+:I501 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sigurd I" .
+
+:I502 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Tirzah" ;
+    :temPai :I396 .
+
+:I506 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Isui" ;
+    :temPai :I539 .
+
+:I507 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ishuah" ;
+    :temPai :I539 .
+
+:I51 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Adah" ;
+    :temPai :I491 .
+
+:I510 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ashbel" ;
+    :temPai :I488 .
+
+:I513 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Chemish" ;
+    :temPai :I512 .
+
+:I514 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Amaron" ;
+    :temPai :I512 .
+
+:I516 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Becher" ;
+    :temPai :I488 .
+
+:I517 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ard" ;
+    :temPai :I488 .
+
+:I518 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Naaman" ;
+    :temPai :I488 .
+
+:I519 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Huppim" ;
+    :temPai :I488 .
+
+:I52 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Buz" ;
+    :temMae :I127 ;
+    :temPai :I178 .
+
+:I523 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Muppim" ;
+    :temPai :I488 .
+
+:I524 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Eli" ;
+    :temPai :I488 .
+
+:I525 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Gera" ;
+    :temPai :I488 .
+
+:I529 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Joeph" ;
+    :temMae :I534 ;
+    :temPai :I526 .
+
+:I53 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Nenall" ;
+    :temPai :I44 .
+
+:I530 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Nephi" ;
+    :temMae :I534 ;
+    :temPai :I526 .
+
+:I531 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sam" ;
+    :temMae :I534 ;
+    :temPai :I526 .
+
+:I532 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Lemul" ;
+    :temMae :I534 ;
+    :temPai :I526 .
+
+:I533 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Laman" ;
+    :temMae :I534 ;
+    :temPai :I526 .
+
+:I535 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Belah" ;
+    :temPai :I488 .
+
+:I536 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Rosh" ;
+    :temPai :I488 .
+
+:I537 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sarah" ;
+    :temPai :I539 .
+
+:I538 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jimnah" ;
+    :temPai :I539 .
+
+:I541 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "John" ;
+    :temMae :I503 ;
+    :temPai :I540 .
+
+:I545 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Areli" ;
+    :temPai :I500 .
+
+:I55 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Abel" ;
+    :temMae :I176 ;
+    :temPai :I32 .
+
+:I564 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ether" ;
+    :temPai :I563 .
+
+:I566 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Pagag" ;
+    :temPai :I515 .
+
+:I567 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jacon" ;
+    :temPai :I571 .
+
+:I569 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Corianumr" ;
+    :temPai :I487 .
+
+:I572 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Gilgah" ;
+    :temPai :I571 .
+
+:I573 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mahah" ;
+    :temPai :I571 .
+
+:I574 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "A Son of Alish" ;
+    :temMae :I570 ;
+    :temPai :I578 .
+
+:I576 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Esrom" ;
+    :temPai :I487 .
+
+:I577 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Nimrah" ;
+    :temMae :I570 ;
+    :temPai :I578 .
+
+:I581 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Cohor" ;
+    :temPai :I579 .
+
+:I583 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Nimrod" ;
+    :temPai :I582 .
+
+:I62 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Trbal-Cain" ;
+    :temMae :I56 ;
+    :temPai :I61 .
+
+:I64 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Naamah" ;
+    :temMae :I56 ;
+    :temPai :I61 .
+
+:I65 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jabal" ;
+    :temMae :I63 ;
+    :temPai :I61 .
+
+:I66 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Meshech" ;
+    :temPai :I33 .
+
+:I67 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Madai" ;
+    :temPai :I33 .
+
+:I68 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Tubul" ;
+    :temPai :I33 .
+
+:I70 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Tiras" ;
+    :temPai :I33 .
+
+:I72 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ashkeraz" ;
+    :temPai :I69 .
+
+:I73 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Riphath" ;
+    :temPai :I69 .
+
+:I74 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Togarmar" ;
+    :temPai :I69 .
+
+:I75 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Tarshish" ;
+    :temPai :I71 .
+
+:I76 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Elisaah" ;
+    :temPai :I71 .
+
+:I77 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Kittim" ;
+    :temPai :I71 .
+
+:I78 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Dodanim" ;
+    :temPai :I71 .
+
+:I79 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Havilah" ;
+    :temPai :I3 .
+
+:I80 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sabtecha" ;
+    :temPai :I3 .
+
+:I81 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Seba" ;
+    :temPai :I3 .
+
+:I82 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Nimrod" ;
+    :temPai :I3 .
+
+:I83 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sheba" ;
+    :temPai :I5 .
+
+:I84 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Dedan" ;
+    :temPai :I5 .
+
+:I85 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sidon" ;
+    :temPai :I6 .
+
+:I86 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Heth" ;
+    :temPai :I6 .
+
+:I87 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jebusite" ;
+    :temPai :I6 .
+
+:I88 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Amorite" ;
+    :temPai :I6 .
+
+:I89 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Girgassite" ;
+    :temPai :I6 .
+
+:I90 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hivite" ;
+    :temPai :I6 .
+
+:I91 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Arkite" ;
+    :temPai :I6 .
+
+:I92 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sirite" ;
+    :temPai :I6 .
+
+:I93 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Arvadite" ;
+    :temPai :I6 .
+
+:I94 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zemarite" ;
+    :temPai :I6 .
+
+:I95 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hamathite" ;
+    :temPai :I6 .
+
+:I96 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ludim" ;
+    :temPai :I1 .
+
+:I97 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Anamim" ;
+    :temPai :I1 .
+
+:I98 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Lehabim" ;
+    :temPai :I1 .
+
+:I99 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Nephtuihim" ;
+    :temPai :I1 .
+
+:nome a owl:DatatypeProperty .
+
+:temMae a owl:ObjectProperty ;
+    rdfs:domain :Pessoa ;
+    rdfs:range :Pessoa .
+
+:temPai a owl:ObjectProperty ;
+    rdfs:domain :Pessoa ;
+    rdfs:range :Pessoa .
+
+:I102 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Casluhim" ;
+    :temPai :I1 .
+
+:I128 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sarai [Sarah]" ;
+    :temPai :I126 .
+
+:I140 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Kemuel" ;
+    :temMae :I127 ;
+    :temPai :I178 .
+
+:I146 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Bashemath" ;
+    :temPai :I166 .
+
+:I15 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Nahor" ;
+    :temPai :I16 .
+
+:I16 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Serug" ;
+    :temPai :I17 .
+
+:I165 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hagar" .
+
+:I17 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Reu" ;
+    :temPai :I18 .
+
+:I177 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Cain" ;
+    :temMae :I176 ;
+    :temPai :I32 .
+
+:I179 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Daughter of Lot (Number I)" ;
+    :temPai :I129 .
+
+:I18 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Peleg" ;
+    :temPai :I19 .
+
+:I180 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Daughter of Lot (Number II)" ;
+    :temPai :I129 .
+
+:I20 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Salah" ;
+    :temPai :I21 .
+
+:I21 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Arphaxad" ;
+    :temPai :I22 .
+
+:I215 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zipporah" ;
+    :temPai :I182 .
+
+:I218 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Eithriall" ;
+    :temPai :I219 .
+
+:I219 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Irial Faidh King" ;
+    :temMae :I220 ;
+    :temPai :I224 .
+
+:I220 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Tamar Tephi Princess" ;
+    :temPai :I221 .
+
+:I224 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Eochaid I (Heremon)" .
+
+:I225 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jermiah" ;
+    :temPai :I226 .
+
+:I227 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Gemariah" .
+
+:I229 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shaphan" ;
+    :temPai :I226 .
+
+:I230 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ahitub" ;
+    :temPai :I231 .
+
+:I231 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Amariah" ;
+    :temPai :I237 .
+
+:I236 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zadok" ;
+    :temPai :I230 .
+
+:I237 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Azariah" ;
+    :temPai :I238 .
+
+:I238 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Meraioth" ;
+    :temPai :I239 .
+
+:I239 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zerahiah" ;
+    :temPai :I240 .
+
+:I24 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Lamech" ;
+    :temPai :I25 .
+
+:I240 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Uzzi" ;
+    :temPai :I241 .
+
+:I241 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Bukki" ;
+    :temPai :I242 .
+
+:I242 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Abishuah" ;
+    :temPai :I243 .
+
+:I243 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Phineas" ;
+    :temPai :I244 .
+
+:I244 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Eleazer" ;
+    :temMae :I263 ;
+    :temPai :I245 .
+
+:I245 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Aaron" ;
+    :temMae :I255 ;
+    :temPai :I246 .
+
+:I247 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Kohath" ;
+    :temPai :I248 .
+
+:I25 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Methuselah" ;
+    :temPai :I26 .
+
+:I250 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Eliashib" ;
+    :temPai :I251 .
+
+:I251 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Joachim" ;
+    :temPai :I252 .
+
+:I252 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Joshuah" ;
+    :temPai :I253 .
+
+:I253 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Josedech" ;
+    :temPai :I254 .
+
+:I26 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Enoch" ;
+    :temPai :I27 .
+
+:I261 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Moses" ;
+    :temMae :I255 ;
+    :temPai :I246 .
+
+:I263 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Elisheba" .
+
+:I27 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jared" ;
+    :temPai :I28 .
+
+:I271 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ishbah" ;
+    :temMae :I264 ;
+    :temPai :I233 .
+
+:I272 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jerad" ;
+    :temMae :I264 ;
+    :temPai :I233 .
+
+:I273 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Heber" ;
+    :temMae :I264 ;
+    :temPai :I233 .
+
+:I274 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jekuthiel" ;
+    :temMae :I264 ;
+    :temPai :I233 .
+
+:I28 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mahalaleel" ;
+    :temPai :I29 .
+
+:I281 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Libnah" .
+
+:I284 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Azaniah" ;
+    :temPai :I226 .
+
+:I29 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Cainan" ;
+    :temPai :I30 .
+
+:I30 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Enos" ;
+    :temPai :I31 .
+
+:I31 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Seth" ;
+    :temMae :I176 ;
+    :temPai :I32 .
+
+:I318 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ahaziah" ;
+    :temPai :I317 .
+
+:I319 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Athaliah" .
+
+:I321 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Garcia II" ;
+    :temMae :I326 ;
+    :temPai :I325 .
+
+:I322 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Chimene (Ximena)" .
+
+:I325 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sancho II" ;
+    :temMae :I328 ;
+    :temPai :I327 .
+
+:I326 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Urraca" .
+
+:I327 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sancho I" .
+
+:I328 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Theuda (Toda)" ;
+    :temPai :I373 .
+
+:I329 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ram" ;
+    :temPai :I342 .
+
+:I330 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Amminadab" ;
+    :temPai :I329 .
+
+:I331 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Morianton" ;
+    :temPai :I339 .
+
+:I332 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Rahab (Rachab)" .
+
+:I333 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Salmon" ;
+    :temPai :I374 .
+
+:I335 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ruth of Moab" .
+
+:I337 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Boas" ;
+    :temMae :I332 ;
+    :temPai :I333 .
+
+:I338 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Obed" ;
+    :temMae :I335 ;
+    :temPai :I337 .
+
+:I339 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Riplakish" ;
+    :temPai :I420 .
+
+:I340 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jesse" ;
+    :temPai :I338 .
+
+:I342 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hezron" ;
+    :temPai :I341 .
+
+:I344 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Tror (Thor)" ;
+    :temMae :I345 ;
+    :temPai :I355 .
+
+:I345 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Daufhter of Priam" ;
+    :temPai :I346 .
+
+:I346 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Priam" ;
+    :temPai :I347 .
+
+:I347 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Lamoedon" ;
+    :temPai :I348 .
+
+:I348 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ilus" ;
+    :temPai :I349 .
+
+:I350 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Erichthonius" ;
+    :temPai :I351 .
+
+:I351 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Darda" ;
+    :temPai :I352 .
+
+:I352 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zarah" ;
+    :temMae :I353 ;
+    :temPai :I376 .
+
+:I355 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Memnon" .
+
+:I356 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Silvius" ;
+    :temPai :I357 .
+
+:I357 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Aeneas" ;
+    :temPai :I378 .
+
+:I358 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Capps" ;
+    :temPai :I359 .
+
+:I361 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Rehoboam (Roboam)" ;
+    :temMae :I368 ;
+    :temPai :I372 .
+
+:I362 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Nathan" ;
+    :temMae :I320 ;
+    :temPai :I364 .
+
+:I363 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Abia" ;
+    :temPai :I361 .
+
+:I365 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Asa" ;
+    :temPai :I363 .
+
+:I367 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Josaphat" ;
+    :temPai :I365 .
+
+:I368 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Nabah Princess of" .
+
+:I37 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Oghaman" ;
+    :temPai :I38 .
+
+:I370 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Joash" ;
+    :temMae :I319 ;
+    :temPai :I318 .
+
+:I371 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Amaziah" ;
+    :temPai :I370 .
+
+:I372 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Solomon" ;
+    :temMae :I320 ;
+    :temPai :I364 .
+
+:I373 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Azuarius" ;
+    :temPai :I359 .
+
+:I374 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Nashon (Naasson)" ;
+    :temPai :I330 .
+
+:I378 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Anchises" ;
+    :temPai :I358 .
+
+:I38 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Beouman" ;
+    :temPai :I39 .
+
+:I388 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Uzziah (Azariah)" ;
+    :temPai :I371 .
+
+:I389 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jotham" ;
+    :temPai :I388 .
+
+:I39 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Heber Scut (Scott)" ;
+    :temPai :I40 .
+
+:I390 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ahaz" ;
+    :temPai :I389 .
+
+:I391 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hezekiah" ;
+    :temPai :I390 .
+
+:I392 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Manasseh" ;
+    :temPai :I391 .
+
+:I397 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hepher" ;
+    :temPai :I399 .
+
+:I399 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Gilead" ;
+    :temPai :I400 .
+
+:I40 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sruth" ;
+    :temPai :I41 .
+
+:I41 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Asruth (Easruth)" ;
+    :temPai :I42 .
+
+:I417 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Dan" ;
+    :temMae :I143 ;
+    :temPai :I10 .
+
+:I418 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shule" ;
+    :temPai :I490 .
+
+:I419 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Heth" ;
+    :temPai :I505 .
+
+:I42 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Gaodhal Glas" ;
+    :temMae :I47 ;
+    :temPai :I43 .
+
+:I420 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shez" ;
+    :temPai :I419 .
+
+:I423 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ammon" ;
+    :temPai :I392 .
+
+:I424 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Joseph" ;
+    :temMae :I426 ;
+    :temPai :I425 .
+
+:I425 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mattathias" ;
+    :temPai :I521 .
+
+:I426 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Daughter of Simon The Just" .
+
+:I427 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Semei" ;
+    :temPai :I428 .
+
+:I428 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Joseph" ;
+    :temPai :I429 .
+
+:I429 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Juda" ;
+    :temPai :I430 .
+
+:I43 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Niul" ;
+    :temPai :I44 .
+
+:I430 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Joanna" ;
+    :temPai :I431 .
+
+:I431 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Rhesa" ;
+    :temPai :I432 .
+
+:I432 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zorobabel" ;
+    :temPai :I433 .
+
+:I433 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Salathiel" ;
+    :temPai :I434 .
+
+:I434 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Neri" ;
+    :temPai :I435 .
+
+:I435 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Melchi" ;
+    :temPai :I436 .
+
+:I436 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Addi" ;
+    :temPai :I437 .
+
+:I437 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Cosam" ;
+    :temPai :I438 .
+
+:I438 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Elmodam" ;
+    :temPai :I439 .
+
+:I439 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Er" ;
+    :temPai :I440 .
+
+:I440 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jose" ;
+    :temPai :I441 .
+
+:I441 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Eliezer" ;
+    :temPai :I442 .
+
+:I442 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jorim" ;
+    :temPai :I548 .
+
+:I444 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Levi" ;
+    :temPai :I445 .
+
+:I445 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Simeon" ;
+    :temPai :I446 .
+
+:I446 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Juda" ;
+    :temPai :I447 .
+
+:I447 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Joseph" ;
+    :temPai :I522 .
+
+:I448 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Eliakim" ;
+    :temPai :I449 .
+
+:I449 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Melea" ;
+    :temPai :I450 .
+
+:I45 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Boath" ;
+    :temPai :I46 .
+
+:I450 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Menan" ;
+    :temPai :I451 .
+
+:I451 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mattatha" ;
+    :temPai :I362 .
+
+:I456 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Melchi" ;
+    :temPai :I457 .
+
+:I457 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Janna" ;
+    :temPai :I424 .
+
+:I459 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Penardin" ;
+    :temMae :I454 ;
+    :temPai :I464 .
+
+:I46 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Magog" ;
+    :temPai :I33 .
+
+:I460 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Llyr" .
+
+:I461 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Azor" ;
+    :temPai :I546 .
+
+:I466 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sadoc" ;
+    :temPai :I461 .
+
+:I467 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Eleazar" ;
+    :temPai :I469 .
+
+:I468 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Achim" ;
+    :temPai :I466 .
+
+:I469 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Eliud" ;
+    :temPai :I468 .
+
+:I47 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Scota" .
+
+:I470 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Heli" ;
+    :temPai :I455 .
+
+:I471 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jacob" ;
+    :temPai :I472 .
+
+:I473 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Abiud" ;
+    :temPai :I494 .
+
+:I474 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Salathiel" ;
+    :temPai :I475 .
+
+:I475 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jechonias" ;
+    :temPai :I476 .
+
+:I476 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Josias" ;
+    :temPai :I477 .
+
+:I477 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Amon" ;
+    :temPai :I478 .
+
+:I478 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Manasses" ;
+    :temPai :I479 .
+
+:I479 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ezekias" ;
+    :temPai :I480 .
+
+:I480 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Achaz" ;
+    :temPai :I481 .
+
+:I481 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Joatham" ;
+    :temPai :I482 .
+
+:I482 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ozias" ;
+    :temPai :I317 .
+
+:I483 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mattathias" ;
+    :temPai :I427 .
+
+:I484 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Maath" ;
+    :temPai :I483 .
+
+:I485 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Nagga" ;
+    :temPai :I484 .
+
+:I486 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Esli" ;
+    :temPai :I485 .
+
+:I489 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Emer" ;
+    :temPai :I487 .
+
+:I491 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Elon" .
+
+:I492 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Orihah" ;
+    :temPai :I571 .
+
+:I494 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zorobabel" ;
+    :temPai :I474 .
+
+:I503 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Elizabeth" ;
+    :temPai :I472 .
+
+:I504 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Coriantum" ;
+    :temPai :I489 .
+
+:I505 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Com" ;
+    :temPai :I504 .
+
+:I508 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Enos" ;
+    :temPai :I528 .
+
+:I511 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jarom" ;
+    :temPai :I508 .
+
+:I515 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mohonria Moriancuma" ;
+    :temPai :I568 .
+
+:I520 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Naum" ;
+    :temPai :I486 .
+
+:I521 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Amos" ;
+    :temPai :I520 .
+
+:I522 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jonan" ;
+    :temPai :I448 .
+
+:I527 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Iddo" .
+
+:I528 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jacob" ;
+    :temMae :I534 ;
+    :temPai :I526 .
+
+:I540 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zachariah" ;
+    :temPai :I527 .
+
+:I542 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Levi" ;
+    :temPai :I456 .
+
+:I543 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Joseph" ;
+    :temPai :I470 .
+
+:I544 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Joseph" ;
+    :temPai :I455 .
+
+:I546 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Eliakim" ;
+    :temPai :I473 .
+
+:I547 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mary" ;
+    :temPai :I471 .
+
+:I548 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Matthat" ;
+    :temPai :I444 .
+
+:I549 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Kim" ;
+    :temPai :I331 .
+
+:I550 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Levi" ;
+    :temPai :I549 .
+
+:I551 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Corom" ;
+    :temPai :I550 .
+
+:I552 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Kish" ;
+    :temPai :I551 .
+
+:I553 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Lib" ;
+    :temPai :I552 .
+
+:I554 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Heth" ;
+    :temPai :I553 .
+
+:I555 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Aaron" ;
+    :temPai :I554 .
+
+:I556 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Amnigaddah" ;
+    :temPai :I555 .
+
+:I557 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Coriantam" ;
+    :temPai :I556 .
+
+:I558 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shiblon" ;
+    :temPai :I565 .
+
+:I559 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Seth" ;
+    :temPai :I558 .
+
+:I560 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Anah" ;
+    :temPai :I559 .
+
+:I561 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ethem" ;
+    :temPai :I560 .
+
+:I562 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Moron" ;
+    :temPai :I561 .
+
+:I563 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Coriantor" ;
+    :temPai :I562 .
+
+:I565 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Com" ;
+    :temPai :I557 .
+
+:I57 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Enoch" ;
+    :temPai :I177 .
+
+:I575 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jared" ;
+    :temPai :I487 .
+
+:I58 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Irad" ;
+    :temPai :I57 .
+
+:I580 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Noah" ;
+    :temPai :I579 .
+
+:I582 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Cohor" ;
+    :temPai :I580 .
+
+:I59 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mahujael" ;
+    :temPai :I58 .
+
+:I60 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Methusael" ;
+    :temPai :I59 .
+
+:I11 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Isaac" ;
+    :temMae :I128 ;
+    :temPai :I13 .
+
+:I12 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Rebekah" ;
+    :temPai :I135 .
+
+:I135 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Bethuel" ;
+    :temMae :I127 ;
+    :temPai :I178 .
+
+:I142 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Rachal" ;
+    :temPai :I54 .
+
+:I143 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Bilhah" .
+
+:I144 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zalpah" .
+
+:I175 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jokshon" ;
+    :temMae :I173 ;
+    :temPai :I13 .
+
+:I187 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Anah" ;
+    :temPai :I193 .
+
+:I19 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Eber" ;
+    :temPai :I20 .
+
+:I193 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zibeon" ;
+    :temPai :I195 .
+
+:I197 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Lotan" ;
+    :temPai :I195 .
+
+:I200 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Dishan" ;
+    :temPai :I195 .
+
+:I221 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mattaniah (Zedekiah)" ;
+    :temMae :I223 ;
+    :temPai :I222 .
+
+:I223 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hammutal" ;
+    :temMae :I281 ;
+    :temPai :I225 .
+
+:I235 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shallum" ;
+    :temPai :I236 .
+
+:I254 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Seriah" ;
+    :temPai :I284 .
+
+:I256 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Merari" ;
+    :temPai :I248 .
+
+:I280 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Gershon" ;
+    :temPai :I248 .
+
+:I286 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jehoiakim" ;
+    :temPai :I222 .
+
+:I291 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Pedaiah" ;
+    :temPai :I287 .
+
+:I317 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jehoram (Joram)" ;
+    :temPai :I367 .
+
+:I341 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Pharez" ;
+    :temMae :I353 ;
+    :temPai :I376 .
+
+:I349 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Tros King of" ;
+    :temPai :I350 .
+
+:I353 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Tamar" .
+
+:I359 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Assaracus" ;
+    :temPai :I349 .
+
+:I400 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "MacHir" ;
+    :temPai :I408 .
+
+:I409 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Asenath" .
+
+:I410 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Joseph" ;
+    :temMae :I142 ;
+    :temPai :I10 .
+
+:I44 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Phoeniusa Farsaidh King" ;
+    :temPai :I45 .
+
+:I453 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Beli (Heli) King" ;
+    :temMae :I454 ;
+    :temPai :I464 .
+
+:I454 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Anna" ;
+    :temPai :I544 .
+
+:I455 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Matthat" ;
+    :temPai :I542 .
+
+:I464 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Manogan" .
+
+:I472 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Matthan" ;
+    :temPai :I467 .
+
+:I490 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Kib" ;
+    :temPai :I492 .
+
+:I5 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Raamah" ;
+    :temPai :I3 .
+
+:I509 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Beriah" ;
+    :temPai :I539 .
+
+:I512 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Omni" ;
+    :temPai :I511 .
+
+:I54 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Laban" ;
+    :temPai :I135 .
+
+:I56 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zilah" .
+
+:I568 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Father of Jared" .
+
+:I570 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "A Daughter of Jared" ;
+    :temPai :I575 .
+
+:I578 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Akish" .
+
+:I579 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Corihor" ;
+    :temPai :I490 .
+
+:I63 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Adah" .
+
+:I14 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Terah" ;
+    :temPai :I15 .
+
+:I176 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Eve" .
+
+:I183 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Aholitamah" ;
+    :temPai :I187 .
+
+:I199 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ezer" ;
+    :temPai :I195 .
+
+:I226 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Hilkiah" ;
+    :temPai :I235 .
+
+:I23 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Noah" ;
+    :temPai :I24 .
+
+:I246 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Amram" ;
+    :temPai :I247 .
+
+:I255 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jochebed" ;
+    :temPai :I248 .
+
+:I296 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zerubbabel" ;
+    :temPai :I291 .
+
+:I32 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Adam" .
+
+:I35 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Titea" .
+
+:I360 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shuah" .
+
+:I387 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zebulun" ;
+    :temMae :I9 ;
+    :temPai :I10 .
+
+:I69 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Gomor" ;
+    :temPai :I33 .
+
+:I104 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Aram" ;
+    :temPai :I22 .
+
+:I126 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Haran" ;
+    :temPai :I14 .
+
+:I129 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Lot" ;
+    :temPai :I126 .
+
+:I145 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Esau" ;
+    :temMae :I12 ;
+    :temPai :I11 .
+
+:I188 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Dishon" ;
+    :temPai :I187 .
+
+:I222 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Josiah" ;
+    :temPai :I423 .
+
+:I232 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Holdiah" .
+
+:I248 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Levi" ;
+    :temMae :I9 ;
+    :temPai :I10 .
+
+:I279 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Reuben" ;
+    :temMae :I9 ;
+    :temPai :I10 .
+
+:I320 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Bathsheba" .
+
+:I34 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ham" ;
+    :temMae :I35 ;
+    :temPai :I23 .
+
+:I364 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "David King of" ;
+    :temPai :I340 .
+
+:I383 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Issachar" .
+
+:I415 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Naphtali" ;
+    :temMae :I143 ;
+    :temPai :I10 .
+
+:I487 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Omer" ;
+    :temPai :I418 .
+
+:I571 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jared" ;
+    :temPai :I568 .
+
+:I61 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Lamech" ;
+    :temPai :I60 .
+
+:I7 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Egyptus" .
+
+:I71 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Javan" ;
+    :temPai :I33 .
+
+:I8 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Reumah" .
+
+:I170 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Madan" ;
+    :temMae :I173 ;
+    :temPai :I13 .
+
+:I173 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Keturah" .
+
+:I182 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Reuel (Jethro)" ;
+    :temMae :I146 ;
+    :temPai :I145 .
+
+:I198 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Stobal" ;
+    :temPai :I195 .
+
+:I22 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Shem" ;
+    :temMae :I35 ;
+    :temPai :I23 .
+
+:I376 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Judah (Judas)" ;
+    :temMae :I9 ;
+    :temPai :I10 .
+
+:I396 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Zelophehad" ;
+    :temPai :I397 .
+
+:I539 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Asher" ;
+    :temMae :I144 ;
+    :temPai :I10 .
+
+:I195 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Seir" .
+
+:I264 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jehudisah" .
+
+:I3 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Cush" ;
+    :temMae :I7 ;
+    :temPai :I34 .
+
+:I316 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Simeon" ;
+    :temMae :I9 ;
+    :temPai :I10 .
+
+:I526 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Lehi" .
+
+:I534 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Sariah" .
+
+:I9 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Leah" ;
+    :temPai :I54 .
+
+:I1 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Mizraim" ;
+    :temMae :I7 ;
+    :temPai :I34 .
+
+:I13 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Abraham (Abram)" ;
+    :temPai :I14 .
+
+:I33 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Japheth" ;
+    :temMae :I35 ;
+    :temPai :I23 .
+
+:I408 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Manasseh" ;
+    :temMae :I409 ;
+    :temPai :I410 .
+
+:I500 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Gad" ;
+    :temMae :I144 ;
+    :temPai :I10 .
+
+:I127 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Milcah" ;
+    :temPai :I126 .
+
+:I287 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jeconiah" ;
+    :temPai :I286 .
+
+:I233 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ezra" ;
+    :temPai :I254 .
+
+:I488 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Benjaman" ;
+    :temMae :I142 ;
+    :temPai :I10 .
+
+:I6 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Canaan" ;
+    :temMae :I7 ;
+    :temPai :I34 .
+
+:I10 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jacob" ;
+    :temMae :I12 ;
+    :temPai :I11 .
+
+:I178 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Nahor" ;
+    :temPai :I14 .
+
+:I112 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Jokan" ;
+    :temPai :I19 .
+
+:I166 a :Pessoa,
+        owl:NamedIndividual ;
+    :nome "Ishmael" ;
+    :temMae :I165 ;
+    :temPai :I13 .
+
+:Pessoa a owl:Class .
+
+

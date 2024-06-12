@@ -1,0 +1,79 @@
+{
+  "Antigua and Barbuda": ["Antigua & Barbuda", "Antigua and Barbuda"],
+  "Bahamas": ["Bahamas", "Bahamas, The", "The Bahamas"],
+  "Bolivia": ["Bolivia", "Bolivia (Plurinational State of)"],
+  "Bosnia and Herzegovina": ["Bosnia & Herzegovina", "Bosnia and Herzegovina"],
+  "Brunei Darussalam": ["Brunei", "Brunei Darussalam"],
+  "Cape Verde": ["Cape Verde", "Cabo Verde"],
+  "Central African Republic": [
+    "Central African Republic",
+    "Central African Rep."
+  ],
+  "Czech Republic": ["Czech Republic", "Czechia"],
+  "Côte d'Ivoire": ["Ivory Coast", "Cote d'Ivoire"],
+  "Dem. Rep. Korea": [
+    "North Korea",
+    "Democratic People's Republic of Korea",
+    "Korea, North"
+  ],
+  "Democratic Republic of the Congo": [
+    "Democratic Republic of the Congo",
+    "Congo, Dem. Rep."
+  ],
+  "Federated States of Micronesia": [
+    "Micronesia (Federated States of)",
+    "Federated States of Micronesia",
+    "Micronesia, Fed. St."
+  ],
+  "Iran": ["Iran", "Iran (Islamic Republic of)"],
+  "Ireland": ["Ireland", "Republic of Ireland"],
+  "Lao PDR": ["Lao People's Democratic Republic", "Laos", "Lao PDR"],
+  "Macedonia": [
+    "Macedonia",
+    "North Macedonia",
+    "The former Yugoslav Republic of Macedonia"
+  ],
+  "Moldova": ["Republic of Moldova", "Moldova"],
+  "Myanmar": ["Myanmar", "Burma"],
+  "Palestine": ["State of Palestine", "Palestinian National Authority"],
+  "Republic of Congo": [
+    "Republic of the Congo",
+    "Congo",
+    "Congo, Repub. of the"
+  ],
+  "Republic of Korea": ["South Korea", "Republic of Korea", "Korea, South"],
+  "Swaziland": ["Eswatini", "Swaziland"],
+  "São Tomé and Principe": ["Sao Tome & Principe", "Sao Tome and Principe"],
+  "Tanzania": ["United Republic of Tanzania", "Tanzania"],
+  "The Gambia": ["Gambia", "Gambia, The", "The Gambia"],
+  "Timor-Leste": ["Timor-Leste", "East Timor"],
+  "Trinidad and Tobago": ["Trinidad & Tobago", "Trinidad and Tobago"],
+  "United States": ["United States of America", "United States"],
+  "Venezuela": ["Venezuela", "Venezuela (Bolivarian Republic of)"],
+  "Congo": ["Republic of the Congo", "Congo", "Congo, Repub. of the"],
+  "Russian Federation": ["Russia", "Russian Federation"],
+  "Eswatini": ["Eswatini", "Swaziland"],
+  "Micronesia": [
+    "Micronesia (Federated States of)",
+    "Federated States of Micronesia",
+    "Micronesia, Fed. St."
+  ],
+  "North Korea": [
+    "North Korea",
+    "Democratic People's Republic of Korea",
+    "Korea, North"
+  ],
+  "North Macedonia": [
+    "Macedonia",
+    "North Macedonia",
+    "The former Yugoslav Republic of Macedonia"
+  ],
+  "Saint Kitts and Nevis": ["Saint Kitts & Nevis", "Saint Kitts and Nevis"],
+  "State of Palestine": [
+    "State of Palestine",
+    "Palestinian National Authority"
+  ],
+  "Vatican City": ["Holy See", "Vatican City"],
+  "Sao Tome and Principe": ["Sao Tome & Principe", "Sao Tome and Principe"],
+  "Ivory Coast": ["Ivory Coast", "Cote d'Ivoire"]
+}

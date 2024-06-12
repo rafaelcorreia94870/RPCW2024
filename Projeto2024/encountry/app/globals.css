@@ -1,0 +1,116 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 240 10% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 3.9%;
+    --card-foreground-hover: 240 10% 3%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+    --primary: 142.1 76.2% 36.3%;
+    --primary-foreground: 355.7 100% 97.3%;
+    --secondary: 240 4.8% 95.9%;
+    --secondary-foreground: 240 5.9% 10%;
+    --muted: 240 4.8% 95.9%;
+    --muted-foreground: 240 3.8% 46.1%;
+    --accent: 240 4.8% 95.9%;
+    --accent-foreground: 240 5.9% 10%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 5.9% 90%;
+    --input: 240 5.9% 90%;
+    --ring: 142.1 76.2% 36.3%;
+    --radius: 0.75rem;
+
+    .country {
+      fill: var(--primary);
+      stroke: white;
+      transition: fill 0.25s ease;
+    }
+
+    .country-hover {
+      cursor: pointer;
+      transition: fill 0.25s ease;
+      fill: rgb(103, 0, 194);
+    }
+
+    .not-country {
+      fill: var(--primary);
+      cursor: not-allowed;
+    }
+  }
+
+  .dark {
+    --background: 20 14.3% 4.1%;
+    --foreground: 0 0% 95%;
+    --card: 24 9.8% 10%;
+    --card-foreground: 0 0% 95%;
+    --card-foreground-hover: 0 0% 97%;
+    --popover: 0 0% 9%;
+    --popover-foreground: 0 0% 95%;
+    --primary: 142.1 70.6% 45.3%;
+    --primary-foreground: 144.9 80.4% 10%;
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 0 0% 15%;
+    --muted-foreground: hsl(240, 5%, 64.9%);
+    --accent: 12 6.5% 15.1%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 85.7% 97.3%;
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 142.4 71.8% 29.2%;
+
+    .country {
+      fill: gainsboro;
+      stroke: black;
+      transition: fill 0.25s ease;
+    }
+
+    .country-hover {
+      cursor: pointer;
+      transition: fill 0.25s ease;
+      fill: rgb(120, 34, 195);
+    }
+
+    .not-country {
+      fill: gainsboro;
+      cursor: not-allowed;
+    }
+  }
+
+  .country-guessed {
+    cursor: pointer;
+    transition: fill 0.4s ease;
+    fill: rgb(183, 141, 250);
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 2px;
+  }
+
+  @font-face {
+    font-family: "Chainwacks";
+    src: url("../fonts/chainwhacks.ttf") format("truetype");
+  }
+  .custom-font {
+    font-family: "Chainwacks", sans-serif;
+  }
+
+  /* Ensure the container takes full height and width */
+  .map-container {
+    width: 100%;
+    height: 100%;
+  }
+
+  /* Make the SVG responsive */
+  .world-map {
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+}

@@ -1,0 +1,1427 @@
+{
+  "head" : {
+    "vars" : [
+      "country_name"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Afghanistan"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Albania"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Algeria"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Andorra"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Angola"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Antigua and Barbuda"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Antigua & Barbuda"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Argentina"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Armenia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Australia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Austria"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Azerbaijan"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "The Bahamas"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Bahamas"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Bahamas, The"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Bahrain"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Bangladesh"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Barbados"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Belarus"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Belgium"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Belize"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Benin"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Bhutan"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Bolivia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Bolivia (Plurinational State of)"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Bosnia and Herzegovina"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Bosnia & Herzegovina"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Botswana"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Brazil"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Brunei"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Brunei Darussalam"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Bulgaria"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Burkina Faso"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Burundi"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Ivory Coast"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Cote d'Ivoire"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Cape Verde"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Cabo Verde"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Cambodia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Cameroon"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Canada"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Central African Republic"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Central African Rep."
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Chad"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Chile"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "China"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Colombia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Comoros"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Republic of the Congo"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Congo"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Congo, Repub. of the"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Costa Rica"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Croatia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Cuba"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Cyprus"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Czech Republic"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Czechia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Democratic Republic of the Congo"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Congo, Dem. Rep."
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Denmark"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Djibouti"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Dominica"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Dominican Republic"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Ecuador"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Egypt"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "El Salvador"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Equatorial Guinea"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Eritrea"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Estonia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Eswatini"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Swaziland"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Ethiopia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Fiji"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Finland"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "France"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Gabon"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "The Gambia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Gambia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Gambia, The"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Georgia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Germany"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Ghana"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Greece"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Grenada"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Guatemala"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Guinea"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Guinea-Bissau"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Guyana"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Haiti"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Vatican City"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Holy See"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Honduras"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Hungary"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Iceland"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "India"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Indonesia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Iran"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Iran (Islamic Republic of)"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Iraq"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Republic of Ireland"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Ireland"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Israel"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Italy"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Jamaica"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Japan"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Jordan"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Kazakhstan"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Kenya"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Kiribati"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Kuwait"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Kyrgyzstan"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Laos"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Lao People's Democratic Republic"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Latvia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Lebanon"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Lesotho"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Liberia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Libya"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Liechtenstein"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Lithuania"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Luxembourg"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Madagascar"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Malawi"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Malaysia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Maldives"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Mali"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Malta"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Marshall Islands"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Mauritania"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Mauritius"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Mexico"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Federated States of Micronesia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Micronesia (Federated States of)"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Micronesia, Fed. St."
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Moldova"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Republic of Moldova"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Monaco"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Mongolia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Montenegro"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Morocco"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Mozambique"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Myanmar"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Burma"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Namibia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Nauru"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Nepal"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Netherlands"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "New Zealand"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Nicaragua"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Niger"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Nigeria"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "North Korea"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Democratic People's Republic of Korea"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Korea, North"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "North Macedonia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "The former Yugoslav Republic of Macedonia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Macedonia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Norway"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Oman"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Pakistan"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Palau"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Palestinian National Authority"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "State of Palestine"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Panama"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Papua New Guinea"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Paraguay"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Peru"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Philippines"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Poland"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Portugal"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Qatar"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Romania"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Russia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Russian Federation"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Rwanda"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Saint Kitts and Nevis"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Saint Kitts & Nevis"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Saint Lucia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Saint Vincent and the Grenadines"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Samoa"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "San Marino"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Saudi Arabia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Senegal"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Serbia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Seychelles"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Sierra Leone"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Singapore"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Slovakia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Slovenia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Solomon Islands"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Somalia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "South Africa"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "South Korea"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Republic of Korea"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Korea, South"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "South Sudan"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Spain"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Sri Lanka"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Sudan"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Suriname"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Sweden"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Switzerland"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Syria"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Syrian Arab Republic"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Tajikistan"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Tanzania"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "United Republic of Tanzania"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Thailand"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "East Timor"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Timor-Leste"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Togo"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Tonga"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Trinidad and Tobago"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Trinidad & Tobago"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Tunisia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Turkey"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Turkmenistan"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Tuvalu"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Uganda"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Ukraine"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "United Arab Emirates"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "United Kingdom"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "United States"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "United States of America"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "United States Virgin Islands"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Uruguay"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Uzbekistan"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Vanuatu"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Venezuela"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Venezuela (Bolivarian Republic of)"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Vietnam"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Yemen"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Zambia"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Zimbabwe"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Sao Tome and Principe"
+        }
+      },
+      {
+        "country_name" : {
+          "type" : "literal",
+          "value" : "Sao Tome & Principe"
+        }
+      }
+    ]
+  }
+}
